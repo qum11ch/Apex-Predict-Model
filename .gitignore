@@ -1,7 +1,15 @@
 # created by virtualenv automatically
-/.idea/
-/venv/
-/tuner_dir/
-/catboost_info/
-/share/
-/etc/
+.idea/
+.vscode/
+
+env/
+venv/
+.venv/
+pyvenv.cfg
+
+tuner_dir/
+catboost_info/
+share/
+etc/
+cache/
+.fastf1/
