@@ -1,3 +1,7 @@
 # created by virtualenv automatically
 /.idea/
 /venv/
+/tuner_dir/
+/catboost_info/
+/share/
+/etc/
