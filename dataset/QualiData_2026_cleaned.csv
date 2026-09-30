@@ -4289,9 +4289,6 @@ HAR,Toro Rosso,65.366,2018,25.2,38.8,933.9,False,32.8,1.0,19.0,15.75,14.88,False
 ERI,Sauber,65.924,2018,24.9,45.8,933.7,False,34.9,2.0,13.0,17.5,16.19,False,WideAero,10,10.0,False,-1.31,4,4.318,0.15,Q1,red_bull_ring,Ferrari
 ERI,Sauber,65.479,2018,24.9,45.3,933.7,False,34.9,2.0,13.0,17.5,16.19,False,WideAero,10,10.0,False,-1.31,4,4.318,0.15,Q1,red_bull_ring,Ferrari
 HAM,Mercedes,64.567,2018,25.1,42.1,933.6,False,36.0,145.0,237.0,2.5,3.12,False,WideAero,10,10.9,False,0.62,11,4.318,0.61,Q2,red_bull_ring,Mercedes
-RAI,Ferrari,63.985,2018,24.5,41.2,933.6,False,32.9,83.0,214.0,3.88,2.88,False,WideAero,10,8.4,False,-1.0,15,4.318,0.39,Q2,red_bull_ring,Ferrari
-VER,Red Bull Racing,64.001,2018,24.6,41.9,933.7,False,32.9,68.0,164.0,7.62,6.19,False,WideAero,10,8.3,False,-1.43,3,4.318,0.41,Q2,red_bull_ring,Renault
-GRO,Haas F1 Team,64.059,2018,24.6,43.1,933.7,False,31.8,0.0,27.0,13.5,12.06,False,WideAero,10,7.2,False,-1.44,7,4.318,0.0,Q2,red_bull_ring,Ferrari
 RIC,Red Bull Racing,65.114,2018,24.4,41.1,933.7,False,31.8,96.0,164.0,4.75,6.19,False,WideAero,10,7.4,False,1.44,7,4.318,0.59,Q2,red_bull_ring,Renault
 RIC,Red Bull Racing,64.567,2018,24.2,40.2,933.7,True,31.9,96.0,164.0,4.75,6.19,False,WideAero,10,7.7,False,1.44,7,4.318,0.59,Q2,red_bull_ring,Renault
 RIC,Red Bull Racing,64.403,2018,25.2,39.8,933.8,False,33.0,96.0,164.0,4.75,6.19,False,WideAero,10,7.8,False,1.44,7,4.318,0.59,Q2,red_bull_ring,Renault
@@ -4310,16 +4307,10 @@ ALO,McLaren,65.324,2018,24.6,41.9,933.7,False,32.9,32.0,40.0,11.88,12.94,False,W
 STR,Williams,65.726,2018,25.1,40.7,933.7,False,33.1,4.0,4.0,17.12,16.88,False,WideAero,10,8.0,False,-0.24,1,4.318,1.0,Q2,red_bull_ring,Mercedes
 STR,Williams,65.286,2018,25.2,39.8,933.8,False,33.0,4.0,4.0,17.12,16.88,False,WideAero,10,7.8,False,-0.24,1,4.318,1.0,Q2,red_bull_ring,Mercedes
 VET,Ferrari,64.26,2018,24.9,37.6,933.9,False,32.0,131.0,214.0,1.88,2.88,False,WideAero,10,7.1,False,1.0,11,4.318,0.61,Q3,red_bull_ring,Ferrari
-RAI,Ferrari,63.982,2018,24.5,38.4,933.9,False,31.4,83.0,214.0,3.88,2.88,False,WideAero,10,6.9,False,-1.0,15,4.318,0.39,Q3,red_bull_ring,Ferrari
-VER,Red Bull Racing,64.061,2018,24.7,43.0,933.8,False,35.8,68.0,164.0,7.62,6.19,False,WideAero,10,11.1,False,-1.43,3,4.318,0.41,Q3,red_bull_ring,Renault
-VER,Red Bull Racing,63.925,2018,25.1,42.1,933.6,False,36.0,68.0,164.0,7.62,6.19,False,WideAero,10,10.9,False,-1.43,3,4.318,0.41,Q3,red_bull_ring,Renault
-GRO,Haas F1 Team,63.892,2018,25.5,39.4,933.6,False,36.2,0.0,27.0,13.5,12.06,False,WideAero,10,10.7,False,-1.44,7,4.318,0.0,Q3,red_bull_ring,Ferrari
 GRO,Haas F1 Team,64.079,2018,25.1,42.2,933.7,False,34.5,0.0,27.0,13.5,12.06,False,WideAero,10,9.4,False,-1.44,7,4.318,0.0,Q3,red_bull_ring,Ferrari
 RIC,Red Bull Racing,64.252,2018,25.0,42.7,933.6,False,34.1,96.0,164.0,4.75,6.19,False,WideAero,10,9.1,False,1.44,7,4.318,0.59,Q3,red_bull_ring,Renault
-RIC,Red Bull Racing,63.996,2018,24.9,42.6,933.7,False,34.2,96.0,164.0,4.75,6.19,False,WideAero,10,9.3,False,1.44,7,4.318,0.59,Q3,red_bull_ring,Renault
 RIC,Red Bull Racing,64.075,2018,24.5,41.0,933.6,False,33.0,96.0,164.0,4.75,6.19,False,WideAero,10,8.5,False,1.44,7,4.318,0.59,Q3,red_bull_ring,Renault
 MAG,Haas F1 Team,64.764,2018,24.5,41.6,933.6,False,32.9,27.0,27.0,10.62,12.06,False,WideAero,10,8.4,False,1.44,3,4.318,1.0,Q3,red_bull_ring,Ferrari
-MAG,Haas F1 Team,64.051,2018,24.6,41.9,933.7,False,32.9,27.0,27.0,10.62,12.06,False,WideAero,10,8.3,False,1.44,3,4.318,1.0,Q3,red_bull_ring,Ferrari
 SAI,Renault,64.905,2018,25.2,38.8,933.9,False,32.8,28.0,62.0,8.88,9.31,False,WideAero,10,7.6,False,0.43,3,4.318,0.45,Q3,red_bull_ring,Renault
 SAI,Renault,64.725,2018,25.4,38.5,933.9,False,32.7,28.0,62.0,8.88,9.31,False,WideAero,10,7.3,False,0.43,3,4.318,0.45,Q3,red_bull_ring,Renault
 HUL,Renault,65.019,2018,25.5,37.1,933.9,False,32.6,34.0,62.0,9.75,9.31,False,WideAero,10,7.1,False,-0.44,7,4.318,0.55,Q3,red_bull_ring,Renault
@@ -4385,18 +4376,12 @@ KUB,Williams,67.074,2019,30.3,25.9,941.7,False,50.0,0.0,0.0,19.5,19.0,False,Wide
 KUB,Williams,66.631,2019,30.4,25.8,941.7,False,49.6,0.0,0.0,19.5,19.0,False,WideAero,10,19.2,False,-0.5,5,4.318,0.5,Q1,red_bull_ring,Mercedes
 KUB,Williams,66.206,2019,29.9,27.0,941.9,False,52.6,0.0,0.0,19.5,19.0,False,WideAero,10,22.7,False,-0.5,5,4.318,0.5,Q1,red_bull_ring,Mercedes
 HAM,Mercedes,64.157,2019,29.3,27.6,942.0,False,51.0,187.0,338.0,1.75,2.06,False,WideAero,10,21.7,False,0.31,12,4.318,0.55,Q2,red_bull_ring,Mercedes
-HAM,Mercedes,63.896,2019,29.1,28.8,942.0,False,50.7,187.0,338.0,1.75,2.06,False,WideAero,10,21.6,False,0.31,12,4.318,0.55,Q2,red_bull_ring,Mercedes
-BOT,Mercedes,63.936,2019,30.1,25.6,941.9,False,51.3,151.0,338.0,2.38,2.06,False,WideAero,10,21.2,False,-0.32,6,4.318,0.45,Q2,red_bull_ring,Mercedes
-BOT,Mercedes,63.899,2019,29.9,25.7,941.9,False,50.9,151.0,338.0,2.38,2.06,False,WideAero,10,21.0,False,-0.32,6,4.318,0.45,Q2,red_bull_ring,Mercedes
-BOT,Mercedes,63.863,2019,30.1,25.8,941.9,False,51.0,151.0,338.0,2.38,2.06,False,WideAero,10,20.9,False,-0.32,6,4.318,0.45,Q2,red_bull_ring,Mercedes
 MAG,Haas F1 Team,64.466,2019,30.4,26.1,941.7,False,51.2,14.0,16.0,9.25,10.31,False,WideAero,10,20.8,False,1.06,4,4.318,0.88,Q2,red_bull_ring,Ferrari
 NOR,McLaren,64.211,2019,30.9,23.8,941.9,False,50.8,14.0,40.0,9.5,10.12,False,WideAero,10,19.9,False,0.62,0,4.318,0.35,Q2,red_bull_ring,Renault
 RAI,Alfa Romeo Racing,64.222,2019,30.9,24.3,941.9,False,50.7,19.0,19.0,13.38,12.56,False,WideAero,10,19.8,False,-0.82,16,4.318,1.0,Q2,red_bull_ring,Ferrari
-RAI,Alfa Romeo Racing,64.056,2019,30.5,25.5,941.8,False,50.3,19.0,19.0,13.38,12.56,False,WideAero,10,19.8,False,-0.82,16,4.318,1.0,Q2,red_bull_ring,Ferrari
 GIO,Alfa Romeo Racing,64.285,2019,30.1,26.4,941.8,False,49.9,0.0,19.0,13.43,12.56,False,WideAero,10,19.8,False,-0.87,1,4.318,0.0,Q2,red_bull_ring,Ferrari
 GIO,Alfa Romeo Racing,64.194,2019,29.5,27.2,941.8,False,50.1,0.0,19.0,13.43,12.56,False,WideAero,10,20.6,False,-0.87,1,4.318,0.0,Q2,red_bull_ring,Ferrari
 GAS,Red Bull Racing,64.167,2019,29.1,27.8,941.7,False,50.3,37.0,137.0,10.12,7.56,False,WideAero,10,21.2,False,-2.56,2,4.318,0.27,Q2,red_bull_ring,Honda
-GAS,Red Bull Racing,63.988,2019,29.8,26.8,941.9,False,50.3,37.0,137.0,10.12,7.56,False,WideAero,10,20.5,False,-2.56,2,4.318,0.27,Q2,red_bull_ring,Honda
 GRO,Haas F1 Team,64.759,2019,29.6,27.7,941.9,False,50.0,2.0,16.0,11.38,10.31,False,WideAero,10,20.4,False,-1.07,8,4.318,0.12,Q2,red_bull_ring,Ferrari
 GRO,Haas F1 Team,64.491,2019,28.9,27.4,941.7,False,50.1,2.0,16.0,11.38,10.31,False,WideAero,10,21.2,False,-1.07,8,4.318,0.12,Q2,red_bull_ring,Ferrari
 GRO,Haas F1 Team,64.49,2019,29.5,27.1,941.7,False,50.1,2.0,16.0,11.38,10.31,False,WideAero,10,20.6,False,-1.07,8,4.318,0.12,Q2,red_bull_ring,Ferrari
@@ -4405,8 +4390,6 @@ HUL,Renault,64.563,2019,30.3,25.9,941.7,False,50.0,16.0,32.0,12.38,10.56,False,W
 ALB,Toro Rosso,64.665,2019,30.3,25.9,941.7,False,49.6,7.0,17.0,12.0,11.0,False,WideAero,10,19.3,False,-1.0,0,4.318,0.41,Q2,red_bull_ring,Honda
 ALB,Toro Rosso,65.073,2019,29.6,28.3,942.0,False,52.4,7.0,17.0,12.0,11.0,False,WideAero,10,22.8,False,-1.0,0,4.318,0.41,Q2,red_bull_ring,Honda
 RIC,Renault,64.79,2019,29.9,27.0,941.9,False,52.6,16.0,32.0,8.75,10.56,False,WideAero,10,22.7,False,1.81,8,4.318,0.5,Q2,red_bull_ring,Renault
-HAM,Mercedes,63.9,2019,29.4,26.9,942.0,False,51.9,187.0,338.0,1.75,2.06,False,WideAero,10,22.5,False,0.31,12,4.318,0.55,Q3,red_bull_ring,Mercedes
-VER,Red Bull Racing,63.861,2019,30.1,25.4,941.9,False,51.9,100.0,137.0,5.0,7.56,False,WideAero,10,21.8,False,2.56,4,4.318,0.73,Q3,red_bull_ring,Honda
 MAG,Haas F1 Team,65.22,2019,30.1,26.4,941.8,False,49.9,14.0,16.0,9.25,10.31,False,WideAero,10,19.8,False,1.06,4,4.318,0.88,Q3,red_bull_ring,Ferrari
 MAG,Haas F1 Team,64.072,2019,29.5,27.2,941.8,False,50.1,14.0,16.0,9.25,10.31,False,WideAero,10,20.6,False,1.06,4,4.318,0.88,Q3,red_bull_ring,Ferrari
 NOR,McLaren,64.793,2019,29.0,27.9,941.8,False,50.1,14.0,40.0,9.5,10.12,False,WideAero,10,21.1,False,0.62,0,4.318,0.35,Q3,red_bull_ring,Renault
@@ -4423,7 +4406,6 @@ HAM,Mercedes,65.071,2020,24.6,34.7,940.7,False,49.5,413.0,739.0,2.29,2.64,False,
 HAM,Mercedes,64.435,2020,24.7,33.4,940.7,False,50.4,413.0,739.0,2.29,2.64,False,WideAero,10,25.7,False,0.35,13,4.318,0.56,Q1,red_bull_ring,Mercedes
 HAM,Mercedes,64.198,2020,24.5,34.4,940.8,False,50.2,413.0,739.0,2.29,2.64,False,WideAero,10,25.7,False,0.35,13,4.318,0.56,Q1,red_bull_ring,Mercedes
 VER,Red Bull Racing,64.326,2020,24.3,35.5,940.6,False,49.5,278.0,417.0,4.57,6.6,False,WideAero,10,25.2,False,2.03,5,4.318,0.67,Q1,red_bull_ring,Honda
-VER,Red Bull Racing,64.024,2020,24.9,34.9,940.7,False,48.0,278.0,417.0,4.57,6.6,False,WideAero,10,23.1,False,2.03,5,4.318,0.67,Q1,red_bull_ring,Honda
 NOR,McLaren,64.606,2020,23.7,35.1,940.6,False,48.6,49.0,145.0,9.43,9.86,False,WideAero,10,24.9,False,0.43,1,4.318,0.34,Q1,red_bull_ring,Renault
 ALB,Red Bull Racing,64.661,2020,23.6,35.4,940.5,False,48.4,92.0,417.0,10.55,6.6,False,WideAero,10,24.8,False,-3.95,1,4.318,0.22,Q1,red_bull_ring,Honda
 ALB,Red Bull Racing,64.853,2020,24.0,35.1,940.6,False,47.9,92.0,417.0,10.55,6.6,False,WideAero,10,23.9,False,-3.95,1,4.318,0.22,Q1,red_bull_ring,Honda
@@ -4469,19 +4451,11 @@ LAT,Williams,66.103,2020,23.6,35.4,940.5,False,48.4,0.0,1.0,0.0,18.9,False,WideA
 LAT,Williams,66.211,2020,24.6,33.7,940.6,False,48.4,0.0,1.0,0.0,18.9,False,WideAero,10,23.8,False,0.0,0,4.318,0.0,Q1,red_bull_ring,Mercedes
 LAT,Williams,65.757,2020,24.9,34.1,940.6,False,48.9,0.0,1.0,0.0,18.9,False,WideAero,10,24.0,False,0.0,0,4.318,0.0,Q1,red_bull_ring,Mercedes
 VER,Red Bull Racing,64.095,2020,25.0,33.4,940.5,False,48.9,278.0,417.0,4.57,6.6,False,WideAero,10,23.9,False,2.03,5,4.318,0.67,Q2,red_bull_ring,Honda
-VER,Red Bull Racing,64.0,2020,25.1,34.0,940.5,False,49.2,278.0,417.0,4.57,6.6,False,WideAero,10,24.1,False,2.03,5,4.318,0.67,Q2,red_bull_ring,Honda
 VER,Red Bull Racing,66.861,2020,25.6,33.7,940.5,False,49.2,278.0,417.0,4.57,6.6,False,WideAero,10,23.6,False,2.03,5,4.318,0.67,Q2,red_bull_ring,Honda
-NOR,McLaren,63.94,2020,25.1,33.3,940.4,False,48.8,49.0,145.0,9.43,9.86,False,WideAero,10,23.7,False,0.43,1,4.318,0.34,Q2,red_bull_ring,Renault
 ALB,Red Bull Racing,64.464,2020,24.3,36.9,940.8,False,50.4,92.0,417.0,10.55,6.6,False,WideAero,10,26.1,False,-3.95,1,4.318,0.22,Q2,red_bull_ring,Honda
-PER,Racing Point,63.982,2020,24.8,34.1,940.8,False,48.7,52.0,73.0,13.33,14.5,False,WideAero,10,23.9,False,1.17,9,4.318,0.71,Q2,red_bull_ring,Mercedes
-PER,Racing Point,63.86,2020,24.6,34.7,940.7,False,49.5,52.0,73.0,13.33,14.5,False,WideAero,10,24.9,False,1.17,9,4.318,0.71,Q2,red_bull_ring,Mercedes
-LEC,Ferrari,64.057,2020,24.5,34.0,940.6,False,50.3,264.0,504.0,4.0,4.19,False,WideAero,10,25.8,False,0.19,2,4.318,0.52,Q2,red_bull_ring,Ferrari
 LEC,Ferrari,64.041,2020,24.6,34.0,940.7,False,49.9,264.0,504.0,4.0,4.19,False,WideAero,10,25.3,False,0.19,2,4.318,0.52,Q2,red_bull_ring,Ferrari
 SAI,McLaren,64.108,2020,24.3,35.5,940.6,False,49.5,96.0,145.0,10.29,9.86,False,WideAero,10,25.2,False,-0.43,5,4.318,0.66,Q2,red_bull_ring,Renault
-SAI,McLaren,63.971,2020,23.7,35.1,940.6,False,48.6,96.0,145.0,10.29,9.86,False,WideAero,10,24.9,False,-0.43,5,4.318,0.66,Q2,red_bull_ring,Renault
-STR,Racing Point,63.955,2020,23.6,35.4,940.5,False,48.4,21.0,73.0,15.67,14.5,False,WideAero,10,24.8,False,-1.17,3,4.318,0.29,Q2,red_bull_ring,Mercedes
 STR,Racing Point,64.235,2020,24.0,35.1,940.6,False,47.9,21.0,73.0,15.67,14.5,False,WideAero,10,23.9,False,-1.17,3,4.318,0.29,Q2,red_bull_ring,Mercedes
-RIC,Renault,64.023,2020,24.8,34.0,940.5,False,49.0,54.0,91.0,10.52,10.76,False,WideAero,10,24.2,False,0.24,9,4.318,0.59,Q2,red_bull_ring,Renault
 RIC,Renault,64.118,2020,24.4,34.5,940.5,False,48.1,54.0,91.0,10.52,10.76,False,WideAero,10,23.7,False,0.24,9,4.318,0.59,Q2,red_bull_ring,Renault
 VET,Ferrari,64.331,2020,24.4,35.2,940.5,False,48.4,240.0,504.0,4.38,4.19,False,WideAero,10,24.0,False,-0.19,13,4.318,0.48,Q2,red_bull_ring,Ferrari
 VET,Ferrari,64.206,2020,25.0,33.4,940.5,False,48.9,240.0,504.0,4.38,4.19,False,WideAero,10,23.9,False,-0.19,13,4.318,0.48,Q2,red_bull_ring,Ferrari
@@ -4493,12 +4467,8 @@ OCO,Renault,64.893,2020,24.4,35.4,940.7,False,48.9,0.0,91.0,0.0,10.76,False,Wide
 OCO,Renault,64.643,2020,24.8,34.1,940.8,False,48.7,0.0,91.0,0.0,10.76,False,WideAero,10,23.9,False,0.0,4,4.318,0.0,Q2,red_bull_ring,Renault
 GRO,Haas F1 Team,65.022,2020,24.6,34.7,940.7,False,49.5,8.0,28.0,11.95,11.81,False,WideAero,10,24.9,False,-0.14,9,4.318,0.29,Q2,red_bull_ring,Ferrari
 GRO,Haas F1 Team,64.691,2020,24.5,34.0,940.6,False,50.3,8.0,28.0,11.95,11.81,False,WideAero,10,25.8,False,-0.14,9,4.318,0.29,Q2,red_bull_ring,Ferrari
-ALB,Red Bull Racing,63.868,2020,24.4,34.5,940.5,False,48.1,92.0,417.0,10.55,6.6,False,WideAero,10,23.7,False,-3.95,1,4.318,0.22,Q3,red_bull_ring,Honda
 PER,Racing Point,64.141,2020,25.0,33.4,940.5,False,48.9,52.0,73.0,13.33,14.5,False,WideAero,10,23.9,False,1.17,9,4.318,0.71,Q3,red_bull_ring,Mercedes
-PER,Racing Point,63.868,2020,25.2,34.5,940.5,False,49.2,52.0,73.0,13.33,14.5,False,WideAero,10,24.0,False,1.17,9,4.318,0.71,Q3,red_bull_ring,Mercedes
 LEC,Ferrari,64.539,2020,25.6,33.7,940.5,False,49.2,264.0,504.0,4.0,4.19,False,WideAero,10,23.6,False,0.19,2,4.318,0.52,Q3,red_bull_ring,Ferrari
-SAI,McLaren,63.971,2020,24.8,34.6,940.5,False,48.8,96.0,145.0,10.29,9.86,False,WideAero,10,24.0,False,-0.43,5,4.318,0.66,Q3,red_bull_ring,Renault
-STR,Racing Point,64.029,2020,24.4,35.4,940.7,False,48.9,21.0,73.0,15.67,14.5,False,WideAero,10,24.5,False,-1.17,3,4.318,0.29,Q3,red_bull_ring,Mercedes
 VER,Red Bull Racing,64.249,2021,25.0,28.7,936.4,False,51.9,156.0,252.0,2.0,4.12,False,WideAero,10,26.9,False,2.12,6,4.318,0.62,Q1,red_bull_ring,Honda
 NOR,McLaren,64.748,2021,25.1,28.0,936.6,False,52.2,86.0,120.0,6.62,8.5,False,WideAero,10,27.1,False,1.88,2,4.318,0.72,Q1,red_bull_ring,Mercedes
 NOR,McLaren,64.345,2021,25.2,28.3,936.6,False,52.3,86.0,120.0,6.62,8.5,False,WideAero,10,27.1,False,1.88,2,4.318,0.72,Q1,red_bull_ring,Mercedes
@@ -4546,7 +4516,6 @@ MAZ,Haas F1 Team,67.106,2021,25.7,27.1,936.3,False,51.8,0.0,0.0,19.25,17.44,Fals
 MAZ,Haas F1 Team,66.282,2021,25.9,27.7,936.2,False,52.3,0.0,0.0,19.25,17.44,False,WideAero,10,26.4,False,-1.81,0,4.318,0.5,Q1,red_bull_ring,Ferrari
 MAZ,Haas F1 Team,65.951,2021,25.7,26.7,936.2,False,52.1,0.0,0.0,19.25,17.44,False,WideAero,10,26.4,False,-1.81,0,4.318,0.5,Q1,red_bull_ring,Ferrari
 VER,Red Bull Racing,64.208,2021,25.9,26.9,936.2,False,52.1,156.0,252.0,2.0,4.12,False,WideAero,10,26.2,False,2.12,6,4.318,0.62,Q2,red_bull_ring,Honda
-VER,Red Bull Racing,63.927,2021,26.0,27.2,936.3,False,51.8,156.0,252.0,2.0,4.12,False,WideAero,10,25.8,False,2.12,6,4.318,0.62,Q2,red_bull_ring,Honda
 NOR,McLaren,64.483,2021,25.5,27.2,936.1,False,50.5,86.0,120.0,6.62,8.5,False,WideAero,10,25.0,False,1.88,2,4.318,0.72,Q2,red_bull_ring,Mercedes
 NOR,McLaren,64.415,2021,25.7,27.2,936.1,False,49.9,86.0,120.0,6.62,8.5,False,WideAero,10,24.2,False,1.88,2,4.318,0.72,Q2,red_bull_ring,Mercedes
 PER,Red Bull Racing,64.554,2021,25.8,27.2,936.1,False,49.9,96.0,252.0,6.25,4.12,False,WideAero,10,24.1,False,-2.13,10,4.318,0.38,Q2,red_bull_ring,Honda
@@ -4574,12 +4543,8 @@ RIC,McLaren,64.719,2021,25.0,28.7,936.4,False,51.9,34.0,120.0,10.38,8.5,False,Wi
 ALO,Alpine,64.856,2021,25.2,28.3,936.6,False,52.3,19.0,31.0,11.38,11.12,False,WideAero,10,27.1,False,-0.26,17,4.318,0.61,Q2,red_bull_ring,Renault
 ALO,Alpine,64.97,2021,25.4,27.6,936.4,False,52.3,19.0,31.0,11.38,11.12,False,WideAero,10,26.9,False,-0.26,17,4.318,0.61,Q2,red_bull_ring,Renault
 GIO,Alfa Romeo Racing,65.083,2021,25.6,27.8,936.4,False,52.3,1.0,2.0,14.12,14.88,False,WideAero,10,26.7,False,0.76,3,4.318,0.5,Q2,red_bull_ring,Ferrari
-NOR,McLaren,63.958,2021,25.8,26.4,936.3,False,51.7,86.0,120.0,6.62,8.5,False,WideAero,10,25.9,False,1.88,2,4.318,0.72,Q3,red_bull_ring,Mercedes
 PER,Red Bull Racing,64.218,2021,25.7,27.2,936.2,False,52.0,96.0,252.0,6.25,4.12,False,WideAero,10,26.3,False,-2.13,10,4.318,0.38,Q3,red_bull_ring,Honda
-PER,Red Bull Racing,63.99,2021,25.9,27.7,936.2,False,52.3,96.0,252.0,6.25,4.12,False,WideAero,10,26.4,False,-2.13,10,4.318,0.38,Q3,red_bull_ring,Honda
-HAM,Mercedes,64.014,2021,25.7,26.7,936.2,False,52.1,138.0,212.0,2.5,3.31,False,WideAero,10,26.4,False,0.81,14,4.318,0.65,Q3,red_bull_ring,Mercedes
 HAM,Mercedes,64.127,2021,25.9,26.9,936.2,False,52.1,138.0,212.0,2.5,3.31,False,WideAero,10,26.2,False,0.81,14,4.318,0.65,Q3,red_bull_ring,Mercedes
-BOT,Mercedes,64.049,2021,26.0,27.2,936.3,False,51.8,74.0,212.0,4.12,3.31,False,WideAero,10,25.8,False,-0.81,8,4.318,0.35,Q3,red_bull_ring,Mercedes
 BOT,Mercedes,64.282,2021,25.5,27.2,936.1,False,50.5,74.0,212.0,4.12,3.31,False,WideAero,10,25.0,False,-0.81,8,4.318,0.35,Q3,red_bull_ring,Mercedes
 GAS,AlphaTauri,64.489,2021,25.5,27.4,936.1,False,49.9,37.0,46.0,6.62,10.5,False,WideAero,10,24.4,False,3.88,4,4.318,0.8,Q3,red_bull_ring,Honda
 GAS,AlphaTauri,64.107,2021,25.8,27.2,936.1,False,49.9,37.0,46.0,6.62,10.5,False,WideAero,10,24.1,False,3.88,4,4.318,0.8,Q3,red_bull_ring,Honda
@@ -4666,9 +4631,7 @@ RIC,McLaren,64.808,2021,26.5,28.2,938.5,False,53.2,34.0,110.0,10.0,8.5,False,Wid
 VET,Aston Martin,64.875,2021,26.3,28.3,938.5,False,53.2,30.0,40.0,12.14,13.14,False,WideAero,10,26.9,False,1.0,14,4.318,0.75,Q2,red_bull_ring,Mercedes
 GIO,Alfa Romeo Racing,65.406,2021,26.1,28.2,938.4,False,51.3,1.0,2.0,14.0,14.64,False,WideAero,10,25.2,False,0.64,3,4.318,0.5,Q2,red_bull_ring,Ferrari
 GIO,Alfa Romeo Racing,64.913,2021,26.0,26.6,938.4,False,51.6,1.0,2.0,14.0,14.64,False,WideAero,10,25.6,False,0.64,3,4.318,0.5,Q2,red_bull_ring,Ferrari
-VER,Red Bull Racing,63.919,2021,25.6,28.2,938.7,False,55.0,131.0,215.0,2.14,4.29,False,WideAero,10,29.4,False,2.15,6,4.318,0.61,Q3,red_bull_ring,Honda
 BOT,Mercedes,64.311,2021,25.6,27.9,938.7,False,55.2,59.0,178.0,4.43,3.43,False,WideAero,10,29.6,False,-1.0,8,4.318,0.33,Q3,red_bull_ring,Mercedes
-BOT,Mercedes,64.035,2021,25.8,28.7,938.8,False,56.0,59.0,178.0,4.43,3.43,False,WideAero,10,30.2,False,-1.0,8,4.318,0.33,Q3,red_bull_ring,Mercedes
 HAM,Mercedes,64.205,2021,25.7,29.0,938.6,False,56.0,119.0,178.0,2.43,3.43,False,WideAero,10,30.3,False,1.0,14,4.318,0.67,Q3,red_bull_ring,Mercedes
 HAM,Mercedes,64.067,2021,25.8,29.8,938.7,False,56.0,119.0,178.0,2.43,3.43,False,WideAero,10,30.2,False,1.0,14,4.318,0.67,Q3,red_bull_ring,Mercedes
 NOR,McLaren,64.244,2021,25.7,28.8,938.7,False,50.4,76.0,110.0,7.0,8.5,False,WideAero,10,24.7,False,1.5,2,4.318,0.69,Q3,red_bull_ring,Mercedes
@@ -5810,7 +5773,6 @@ SAI,Renault,104.489,2018,14.3,59.5,965.0,True,23.4,30.0,82.0,9.08,9.5,False,Wide
 SAI,Renault,104.577,2018,13.2,66.8,964.9,True,20.7,30.0,82.0,9.08,9.5,False,WideAero,19,7.5,False,0.42,3,7.004,0.37,Q1,spa,Renault
 ALO,McLaren,104.917,2018,12.7,67.8,964.9,False,20.2,44.0,52.0,12.0,13.54,False,WideAero,19,7.5,False,1.54,16,7.004,0.85,Q1,spa,Renault
 ALO,McLaren,104.93,2018,12.5,73.2,965.0,False,20.2,44.0,52.0,12.0,13.54,False,WideAero,19,7.7,True,1.54,16,7.004,0.85,Q1,spa,Renault
-SIR,Williams,105.85,2018,12.4,71.5,965.1,False,20.1,0.0,4.0,16.75,16.92,False,WideAero,19,7.7,True,0.17,0,7.004,0.0,Q1,spa,Mercedes
 SIR,Williams,104.998,2018,15.2,52.9,964.5,False,26.8,0.0,4.0,16.75,16.92,False,WideAero,19,11.6,False,0.17,0,7.004,0.0,Q1,spa,Mercedes
 STR,Williams,105.593,2018,15.2,54.1,964.4,False,26.9,4.0,4.0,17.08,16.92,False,WideAero,19,11.7,False,-0.16,1,7.004,1.0,Q1,spa,Mercedes
 STR,Williams,105.134,2018,14.7,54.5,964.5,False,26.4,4.0,4.0,17.08,16.92,False,WideAero,19,11.7,False,-0.16,1,7.004,1.0,Q1,spa,Mercedes
@@ -5830,21 +5792,13 @@ GAS,Toro Rosso,103.844,2018,15.1,52.0,964.6,False,25.6,26.0,28.0,13.42,14.67,Fal
 HAR,Toro Rosso,103.865,2018,14.8,53.2,964.6,False,25.3,2.0,28.0,15.92,14.67,False,WideAero,19,10.5,False,-1.25,1,7.004,0.07,Q2,spa,Honda
 LEC,Sauber,104.161,2018,14.3,59.5,965.0,True,23.4,13.0,18.0,13.92,15.38,False,WideAero,19,9.1,False,1.46,0,7.004,0.72,Q2,spa,Ferrari
 ERI,Sauber,104.301,2018,12.5,70.7,965.0,False,20.0,5.0,18.0,16.83,15.38,False,WideAero,19,7.5,True,-1.45,4,7.004,0.28,Q2,spa,Ferrari
-GAS,Toro Rosso,106.435,2019,28.9,37.8,964.5,False,41.4,63.0,244.0,8.75,6.46,False,WideAero,19,12.5,False,-2.29,2,7.004,0.26,Q1,spa,Honda
 PER,Racing Point,105.732,2019,29.2,36.1,964.2,False,41.4,13.0,31.0,13.25,15.12,False,WideAero,19,12.2,False,1.87,8,7.004,0.42,Q1,spa,Mercedes
 LEC,Ferrari,103.587,2019,29.0,36.6,964.3,False,41.4,132.0,288.0,5.33,5.46,False,WideAero,19,12.4,False,0.13,1,7.004,0.46,Q1,spa,Ferrari
-STR,Racing Point,106.0,2019,29.1,35.5,964.1,False,41.4,18.0,31.0,17.0,15.12,False,WideAero,19,12.3,False,-1.88,2,7.004,0.58,Q1,spa,Mercedes
-MAG,Haas F1 Team,105.839,2019,29.5,35.8,964.2,False,42.0,18.0,26.0,10.17,10.54,False,WideAero,19,12.5,False,0.37,4,7.004,0.69,Q1,spa,Ferrari
 ALB,Red Bull Racing,105.528,2019,29.0,38.8,964.4,False,41.4,16.0,43.0,12.27,12.04,False,WideAero,19,12.4,False,-0.23,0,7.004,0.37,Q1,spa,Honda
-KVY,Toro Rosso,106.518,2019,29.2,36.1,964.2,False,41.4,27.0,43.0,12.83,12.04,False,WideAero,19,12.2,False,-0.79,4,7.004,0.63,Q1,spa,Honda
-HUL,Renault,105.899,2019,29.0,36.9,964.3,False,41.3,17.0,39.0,11.75,10.96,False,WideAero,19,12.3,False,-0.79,8,7.004,0.44,Q1,spa,Renault
 RIC,Renault,105.56,2019,29.1,35.5,964.1,False,41.4,22.0,39.0,10.17,10.96,False,WideAero,19,12.3,False,0.79,8,7.004,0.56,Q1,spa,Renault
 VER,Red Bull Racing,104.622,2019,29.5,35.8,964.2,False,42.0,181.0,244.0,4.17,6.46,False,WideAero,19,12.5,False,2.29,4,7.004,0.74,Q1,spa,Honda
-NOR,McLaren,106.154,2019,29.2,36.7,964.1,False,41.5,24.0,82.0,9.42,10.08,False,WideAero,19,12.3,False,0.66,0,7.004,0.29,Q1,spa,Renault
 HAM,Mercedes,105.26,2019,29.4,36.3,964.0,False,41.6,250.0,438.0,1.83,2.12,False,WideAero,19,12.2,False,0.29,12,7.004,0.57,Q1,spa,Mercedes
 VET,Ferrari,104.109,2019,29.4,35.2,964.0,False,41.4,156.0,288.0,5.58,5.46,False,WideAero,19,12.0,False,-0.12,12,7.004,0.54,Q1,spa,Ferrari
-SAI,McLaren,106.507,2019,29.2,35.5,964.0,False,41.1,58.0,82.0,10.75,10.08,False,WideAero,19,11.9,False,-0.67,4,7.004,0.71,Q1,spa,Renault
-RAI,Alfa Romeo Racing,105.842,2019,29.7,35.4,964.0,False,41.0,31.0,32.0,11.75,11.62,False,WideAero,19,11.3,False,-0.13,16,7.004,0.97,Q1,spa,Ferrari
 BOT,Mercedes,105.141,2019,29.4,35.4,963.8,False,40.6,188.0,438.0,2.42,2.12,False,WideAero,19,11.2,False,-0.3,6,7.004,0.43,Q1,spa,Mercedes
 GRO,Haas F1 Team,105.694,2019,29.2,35.7,963.8,False,40.7,8.0,26.0,10.92,10.54,False,WideAero,19,11.5,False,-0.38,8,7.004,0.31,Q1,spa,Ferrari
 GIO,Alfa Romeo Racing,105.637,2019,29.2,37.2,963.7,False,40.8,1.0,32.0,12.55,11.62,False,WideAero,19,11.6,False,-0.93,1,7.004,0.03,Q1,spa,Ferrari
@@ -5855,7 +5809,6 @@ LEC,Ferrari,102.938,2019,29.4,37.4,963.5,False,40.2,132.0,288.0,5.33,5.46,False,
 STR,Racing Point,105.047,2019,28.9,37.8,964.5,False,41.4,18.0,31.0,17.0,15.12,False,WideAero,19,12.5,False,-1.88,2,7.004,0.58,Q2,spa,Mercedes
 MAG,Haas F1 Team,105.149,2019,29.2,36.4,964.3,False,41.4,18.0,26.0,10.17,10.54,False,WideAero,19,12.2,False,0.37,4,7.004,0.69,Q2,spa,Ferrari
 MAG,Haas F1 Team,104.738,2019,29.0,36.6,964.3,False,41.4,18.0,26.0,10.17,10.54,False,WideAero,19,12.4,False,0.37,4,7.004,0.69,Q2,spa,Ferrari
-ALB,Red Bull Racing,105.799,2019,29.4,35.6,964.2,False,41.5,16.0,43.0,12.27,12.04,False,WideAero,19,12.1,False,-0.23,0,7.004,0.37,Q2,spa,Honda
 HUL,Renault,105.196,2019,29.4,36.3,964.0,False,41.6,17.0,39.0,11.75,10.96,False,WideAero,19,12.2,False,-0.79,8,7.004,0.44,Q2,spa,Renault
 HUL,Renault,104.549,2019,29.3,35.4,963.9,False,41.3,17.0,39.0,11.75,10.96,False,WideAero,19,12.0,False,-0.79,8,7.004,0.44,Q2,spa,Renault
 RIC,Renault,104.632,2019,29.2,35.5,964.0,False,41.1,22.0,39.0,10.17,10.96,False,WideAero,19,11.9,False,0.79,8,7.004,0.56,Q2,spa,Renault
@@ -5963,25 +5916,10 @@ VER,Red Bull Racing,104.581,2022,15.0,86.0,969.0,False,21.0,258.0,431.0,2.85,4.2
 SAI,Ferrari,105.05,2022,15.0,86.0,969.0,False,20.8,156.0,334.0,4.15,3.38,False,GroundEffect,19,5.8,True,-0.77,7,7.004,0.47,Q1,spa,Ferrari
 PER,Red Bull Racing,105.377,2022,15.0,85.0,969.0,False,20.8,173.0,431.0,5.62,4.23,False,GroundEffect,19,5.8,True,-1.39,11,7.004,0.4,Q1,spa,Honda RBPT
 LEC,Ferrari,105.572,2022,14.9,86.0,969.0,False,20.8,178.0,334.0,2.62,3.38,False,GroundEffect,19,5.9,True,0.76,4,7.004,0.53,Q1,spa,Ferrari
-OCO,Alpine,106.039,2022,15.2,84.0,969.0,False,20.7,58.0,99.0,10.92,9.5,False,GroundEffect,19,5.5,True,-1.42,6,7.004,0.59,Q1,spa,Renault
-ALO,Alpine,106.075,2022,15.2,84.0,969.0,False,20.9,41.0,99.0,8.08,9.5,False,GroundEffect,19,5.7,True,1.42,18,7.004,0.41,Q1,spa,Renault
-HAM,Mercedes,106.308,2022,15.5,83.0,969.0,False,20.9,146.0,304.0,7.31,6.96,False,GroundEffect,19,5.4,True,-0.35,15,7.004,0.48,Q1,spa,Mercedes
 HAM,Mercedes,105.736,2022,15.5,82.0,969.0,False,20.8,146.0,304.0,7.31,6.96,False,GroundEffect,19,5.3,True,-0.35,15,7.004,0.48,Q1,spa,Mercedes
-RUS,Mercedes,106.269,2022,15.0,86.0,969.0,False,21.0,158.0,304.0,6.62,6.96,False,GroundEffect,19,6.0,True,0.34,3,7.004,0.52,Q1,spa,Mercedes
-RUS,Mercedes,106.534,2022,14.9,86.0,969.2,False,20.8,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.9,True,0.34,3,7.004,0.52,Q1,spa,Mercedes
 RUS,Mercedes,105.65,2022,15.0,85.0,969.0,False,20.8,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.8,True,0.34,3,7.004,0.52,Q1,spa,Mercedes
-ALB,Williams,106.389,2022,14.9,86.0,969.0,False,20.7,3.0,3.0,16.0,17.23,False,GroundEffect,19,5.8,True,1.23,2,7.004,1.0,Q1,spa,Mercedes
 ALB,Williams,105.672,2022,15.2,84.0,969.0,False,20.7,3.0,3.0,16.0,17.23,False,GroundEffect,19,5.5,True,1.23,2,7.004,1.0,Q1,spa,Mercedes
-NOR,McLaren,106.23,2022,15.3,84.0,969.0,False,21.0,76.0,95.0,8.46,10.04,False,GroundEffect,19,5.7,True,1.58,3,7.004,0.8,Q1,spa,Mercedes
 NOR,McLaren,105.745,2022,15.5,84.0,969.0,False,21.2,76.0,95.0,8.46,10.04,False,GroundEffect,19,5.7,True,1.58,3,7.004,0.8,Q1,spa,Mercedes
-RIC,McLaren,106.212,2022,15.7,83.0,969.2,False,20.7,19.0,95.0,11.62,10.04,False,GroundEffect,19,5.0,True,-1.58,11,7.004,0.2,Q1,spa,Mercedes
-GAS,AlphaTauri,106.196,2022,15.5,83.0,969.0,False,20.9,16.0,27.0,12.54,13.08,False,GroundEffect,19,5.4,True,0.54,5,7.004,0.59,Q1,spa,Honda RBPT
-GAS,AlphaTauri,106.183,2022,15.5,82.0,969.0,False,20.8,16.0,27.0,12.54,13.08,False,GroundEffect,19,5.3,True,0.54,5,7.004,0.59,Q1,spa,Honda RBPT
-ZHO,Alfa Romeo,106.178,2022,15.5,82.0,969.0,False,20.9,5.0,51.0,14.54,12.23,False,GroundEffect,19,5.4,True,-2.31,0,7.004,0.1,Q1,spa,Ferrari
-STR,Aston Martin,106.256,2022,15.0,86.0,969.0,False,21.0,4.0,20.0,16.92,16.0,False,GroundEffect,19,6.0,True,-0.92,5,7.004,0.2,Q1,spa,Mercedes
-MSC,Haas F1 Team,106.342,2022,14.9,86.0,969.0,False,20.8,12.0,34.0,13.77,12.35,False,GroundEffect,19,5.9,True,-1.42,1,7.004,0.35,Q1,spa,Ferrari
-VET,Aston Martin,106.344,2022,15.3,84.0,969.0,False,21.0,16.0,20.0,14.64,16.0,False,GroundEffect,19,5.7,True,1.36,15,7.004,0.8,Q1,spa,Mercedes
-LAT,Williams,106.401,2022,15.5,83.0,969.0,False,20.9,0.0,3.0,18.46,17.23,False,GroundEffect,19,5.4,True,-1.23,2,7.004,0.0,Q1,spa,Mercedes
 VER,Red Bull Racing,104.723,2022,14.9,86.0,969.2,False,20.8,258.0,431.0,2.85,4.23,False,GroundEffect,19,5.9,True,1.38,7,7.004,0.6,Q2,spa,Honda RBPT
 SAI,Ferrari,105.418,2022,15.0,85.0,969.0,False,20.8,156.0,334.0,4.15,3.38,False,GroundEffect,19,5.8,True,-0.77,7,7.004,0.47,Q2,spa,Ferrari
 PER,Red Bull Racing,104.794,2022,14.9,86.0,969.0,False,20.8,173.0,431.0,5.62,4.23,False,GroundEffect,19,5.9,True,-1.39,11,7.004,0.4,Q2,spa,Honda RBPT
@@ -5991,14 +5929,10 @@ OCO,Alpine,105.475,2022,15.5,84.0,969.0,False,21.2,58.0,99.0,10.92,9.5,False,Gro
 ALO,Alpine,105.656,2022,15.6,83.0,969.0,False,20.9,41.0,99.0,8.08,9.5,False,GroundEffect,19,5.3,True,1.42,18,7.004,0.41,Q2,spa,Renault
 ALO,Alpine,105.552,2022,15.7,83.0,969.2,False,20.7,41.0,99.0,8.08,9.5,False,GroundEffect,19,5.0,True,1.42,18,7.004,0.41,Q2,spa,Renault
 HAM,Mercedes,105.42,2022,15.6,83.0,969.0,False,21.1,146.0,304.0,7.31,6.96,False,GroundEffect,19,5.5,True,-0.35,15,7.004,0.48,Q2,spa,Mercedes
-RUS,Mercedes,106.284,2022,15.5,82.0,969.0,False,20.8,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.3,True,0.34,3,7.004,0.52,Q2,spa,Mercedes
 RUS,Mercedes,105.461,2022,15.5,82.0,969.0,False,21.1,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.6,True,0.34,3,7.004,0.52,Q2,spa,Mercedes
 ALB,Williams,105.675,2022,14.9,86.0,969.2,False,20.8,3.0,3.0,16.0,17.23,False,GroundEffect,19,5.9,True,1.23,2,7.004,1.0,Q2,spa,Mercedes
 NOR,McLaren,105.603,2022,15.0,86.0,969.0,False,20.8,76.0,95.0,8.46,10.04,False,GroundEffect,19,5.8,True,1.58,3,7.004,0.8,Q2,spa,Mercedes
 RIC,McLaren,105.767,2022,15.0,86.0,969.2,False,20.8,19.0,95.0,11.62,10.04,False,GroundEffect,19,5.8,True,-1.58,11,7.004,0.2,Q2,spa,Mercedes
-GAS,AlphaTauri,106.293,2022,14.9,86.0,969.0,False,20.8,16.0,27.0,12.54,13.08,False,GroundEffect,19,5.9,True,0.54,5,7.004,0.59,Q2,spa,Honda RBPT
-GAS,AlphaTauri,105.827,2022,15.0,86.0,969.0,False,20.4,16.0,27.0,12.54,13.08,False,GroundEffect,19,5.4,True,0.54,5,7.004,0.59,Q2,spa,Honda RBPT
-ZHO,Alfa Romeo,106.085,2022,15.2,84.0,969.0,False,20.9,5.0,51.0,14.54,12.23,False,GroundEffect,19,5.7,True,-2.31,0,7.004,0.1,Q2,spa,Ferrari
 VER,Red Bull Racing,103.665,2022,15.6,83.0,969.2,False,20.8,258.0,431.0,2.85,4.23,False,GroundEffect,19,5.2,True,1.38,7,7.004,0.6,Q3,spa,Honda RBPT
 SAI,Ferrari,104.297,2022,15.5,83.0,969.0,False,20.9,156.0,334.0,4.15,3.38,False,GroundEffect,19,5.4,True,-0.77,7,7.004,0.47,Q3,spa,Ferrari
 SAI,Ferrari,104.714,2022,15.5,82.0,969.0,False,20.8,156.0,334.0,4.15,3.38,False,GroundEffect,19,5.3,True,-0.77,7,7.004,0.47,Q3,spa,Ferrari
@@ -6007,14 +5941,7 @@ PER,Red Bull Racing,104.992,2022,15.5,82.0,969.0,False,20.9,173.0,431.0,5.62,4.2
 LEC,Ferrari,104.553,2022,14.9,86.0,969.2,False,20.8,178.0,334.0,2.62,3.38,False,GroundEffect,19,5.9,True,0.76,4,7.004,0.53,Q3,spa,Ferrari
 OCO,Alpine,105.18,2022,15.0,86.0,969.0,False,20.8,58.0,99.0,10.92,9.5,False,GroundEffect,19,5.8,True,-1.42,6,7.004,0.59,Q3,spa,Renault
 ALO,Alpine,105.368,2022,15.0,86.0,969.2,False,20.8,41.0,99.0,8.08,9.5,False,GroundEffect,19,5.8,True,1.42,18,7.004,0.41,Q3,spa,Renault
-HAM,Mercedes,106.53,2022,14.9,86.0,969.0,False,20.9,146.0,304.0,7.31,6.96,False,GroundEffect,19,6.0,True,-0.35,15,7.004,0.48,Q3,spa,Mercedes
 HAM,Mercedes,105.503,2022,15.0,86.0,969.0,False,20.4,146.0,304.0,7.31,6.96,False,GroundEffect,19,5.4,True,-0.35,15,7.004,0.48,Q3,spa,Mercedes
-RUS,Mercedes,106.204,2022,15.0,85.0,969.2,False,20.6,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.6,True,0.34,3,7.004,0.52,Q3,spa,Mercedes
-RUS,Mercedes,105.776,2022,15.2,84.0,969.0,False,20.7,158.0,304.0,6.62,6.96,False,GroundEffect,19,5.5,True,0.34,3,7.004,0.52,Q3,spa,Mercedes
-ALB,Williams,106.369,2022,15.3,84.0,969.0,False,21.0,3.0,3.0,16.0,17.23,False,GroundEffect,19,5.7,True,1.23,2,7.004,1.0,Q3,spa,Mercedes
-ALB,Williams,105.837,2022,15.5,84.0,969.0,False,21.2,3.0,3.0,16.0,17.23,False,GroundEffect,19,5.7,True,1.23,2,7.004,1.0,Q3,spa,Mercedes
-NOR,McLaren,106.178,2022,15.7,83.0,969.2,False,20.8,76.0,95.0,8.46,10.04,False,GroundEffect,19,5.1,True,1.58,3,7.004,0.8,Q3,spa,Mercedes
-VER,Red Bull Racing,106.168,2023,19.9,87.0,961.5,False,23.6,281.0,452.0,3.18,6.59,False,GroundEffect,19,3.7,True,3.41,8,7.004,0.62,Q3,spa,Honda RBPT
 BOT,Mercedes,77.123,2018,25.5,66.6,982.3,True,32.9,122.0,310.0,3.36,3.36,False,WideAero,14,7.4,False,0.0,5,4.381,0.39,Q1,hungaroring,Mercedes
 RAI,Ferrari,77.589,2018,24.5,74.0,982.5,True,32.0,131.0,302.0,3.73,2.82,False,WideAero,14,7.5,True,-0.91,15,4.381,0.43,Q1,hungaroring,Ferrari
 VET,Ferrari,76.666,2018,22.8,79.6,982.7,True,31.8,171.0,302.0,1.91,2.82,False,WideAero,14,9.0,True,0.91,11,4.381,0.57,Q1,hungaroring,Ferrari
@@ -7176,7 +7103,6 @@ KVY,Toro Rosso,102.27,2019,16.9,67.3,1023.5,False,36.3,1.0,4.0,13.67,11.0,True,W
 KVY,Toro Rosso,102.308,2019,17.0,66.6,1023.6,False,35.9,1.0,4.0,13.67,11.0,True,WideAero,20,18.9,False,-2.67,4,6.003,0.25,Q2,baku,Honda
 NOR,McLaren,102.573,2019,16.7,67.8,1023.5,False,36.2,8.0,8.0,11.0,12.0,True,WideAero,20,19.5,False,1.0,0,6.003,1.0,Q2,baku,Renault
 NOR,McLaren,102.422,2019,17.0,66.6,1023.6,False,35.9,8.0,8.0,11.0,12.0,True,WideAero,20,18.9,False,1.0,0,6.003,1.0,Q2,baku,Renault
-GIO,Alfa Romeo Racing,106.244,2019,16.4,70.4,1023.3,False,31.5,0.0,12.0,15.0,10.17,True,WideAero,20,15.1,True,-4.83,1,6.003,0.0,Q2,baku,Ferrari
 LEC,Ferrari,101.995,2019,14.6,79.1,1023.1,False,26.9,36.0,73.0,3.33,3.0,True,WideAero,20,12.3,True,-0.33,1,6.003,0.49,Q2,baku,Ferrari
 SAI,McLaren,102.398,2019,14.6,79.0,1023.1,False,26.9,0.0,8.0,13.0,12.0,True,WideAero,20,12.3,True,-1.0,4,6.003,0.0,Q2,baku,Renault
 SAI,McLaren,102.421,2019,14.6,79.1,1023.2,False,27.1,0.0,8.0,13.0,12.0,True,WideAero,20,12.5,True,-1.0,4,6.003,0.0,Q2,baku,Renault
@@ -7297,7 +7223,6 @@ PER,Red Bull Racing,101.641,2022,24.6,70.0,1015.7,False,33.4,110.0,235.0,3.86,3.
 VER,Red Bull Racing,101.989,2022,24.6,69.0,1015.7,False,33.5,125.0,235.0,2.57,3.21,True,GroundEffect,20,8.9,False,0.64,7,6.003,0.53,Q3,baku,Honda RBPT
 VER,Red Bull Racing,101.706,2022,24.5,69.0,1015.9,False,33.9,125.0,235.0,2.57,3.21,True,GroundEffect,20,9.4,False,0.64,7,6.003,0.53,Q3,baku,Honda RBPT
 SAI,Ferrari,101.814,2022,24.3,70.0,1015.7,False,33.2,83.0,199.0,4.57,2.93,True,GroundEffect,20,8.9,False,-1.64,7,6.003,0.42,Q3,baku,Ferrari
-SAI,Ferrari,105.97,2022,24.2,70.0,1015.9,False,33.2,83.0,199.0,4.57,2.93,True,GroundEffect,20,9.0,False,-1.64,7,6.003,0.42,Q3,baku,Ferrari
 RUS,Mercedes,102.978,2022,24.8,70.0,1015.5,False,37.1,84.0,134.0,7.71,8.07,True,GroundEffect,20,12.3,False,0.36,3,6.003,0.63,Q3,baku,Mercedes
 RUS,Mercedes,102.712,2022,24.9,69.0,1015.5,False,36.8,84.0,134.0,7.71,8.07,True,GroundEffect,20,11.9,False,0.36,3,6.003,0.63,Q3,baku,Mercedes
 GAS,AlphaTauri,102.845,2022,25.0,69.0,1015.5,False,36.5,6.0,17.0,12.14,13.07,True,GroundEffect,20,11.5,False,0.93,5,6.003,0.35,Q3,baku,Honda RBPT
@@ -7458,7 +7383,6 @@ NOR,McLaren,103.906,2024,27.2,38.0,1016.0,False,37.7,241.0,438.0,3.31,4.12,True,
 NOR,McLaren,103.609,2024,27.4,38.0,1016.1,False,38.0,241.0,438.0,3.31,4.12,True,GroundEffect,20,10.6,False,0.81,5,6.003,0.55,Q1,baku,Mercedes
 BOT,Kick Sauber,104.876,2024,27.3,38.0,1016.0,False,37.6,0.0,0.0,15.25,16.81,True,GroundEffect,20,10.3,False,1.56,11,6.003,0.5,Q1,baku,Ferrari
 BOT,Kick Sauber,103.618,2024,27.6,37.0,1016.1,False,37.4,0.0,0.0,15.25,16.81,True,GroundEffect,20,9.8,False,1.56,11,6.003,0.5,Q1,baku,Ferrari
-ZHO,Kick Sauber,105.864,2024,27.6,37.0,1016.1,False,37.3,0.0,0.0,18.38,16.81,True,GroundEffect,20,9.7,False,-1.57,2,6.003,0.5,Q1,baku,Ferrari
 ZHO,Kick Sauber,105.266,2024,26.9,37.0,1016.2,False,37.0,0.0,0.0,18.38,16.81,True,GroundEffect,20,10.1,False,-1.57,2,6.003,0.5,Q1,baku,Ferrari
 OCO,Alpine,105.665,2024,26.7,36.0,1016.1,False,37.1,5.0,13.0,14.38,14.5,True,GroundEffect,20,10.4,False,0.12,8,6.003,0.38,Q1,baku,Renault
 OCO,Alpine,104.504,2024,27.0,36.0,1016.2,False,37.2,5.0,13.0,14.38,14.5,True,GroundEffect,20,10.2,False,0.12,8,6.003,0.38,Q1,baku,Renault
@@ -13262,3 +13186,486 @@ LIN,Racing Bulls,73.492,2026,21.2,25.4,1028.6,False,30.9,4.0,14.0,12.5,12.12,Tru
 LIN,Racing Bulls,73.28,2026,21.3,23.9,1028.6,False,30.6,4.0,14.0,12.5,12.12,True,ActiveAero,14,9.3,False,-0.38,0,4.361,0.29,Q3,villeneuve,Ford RBPT
 COL,Alpine,73.697,2026,21.3,24.8,1028.6,False,30.7,7.0,23.0,12.75,11.0,True,ActiveAero,14,9.4,False,-1.75,2,4.361,0.3,Q3,villeneuve,Mercedes
 COL,Alpine,73.875,2026,21.3,24.7,1028.6,False,30.9,7.0,23.0,12.75,11.0,True,ActiveAero,14,9.6,False,-1.75,2,4.361,0.3,Q3,villeneuve,Mercedes
+ANT,Mercedes,74.313,2026,24.2,52.3,1017.6,False,47.0,131.0,219.0,1.4,1.8,True,ActiveAero,19,22.8,False,0.4,1,3.337,0.6,Q1,monaco,Mercedes
+ANT,Mercedes,73.946,2026,24.4,52.7,1017.6,False,46.9,131.0,219.0,1.4,1.8,True,ActiveAero,19,22.5,False,0.4,1,3.337,0.6,Q1,monaco,Mercedes
+ANT,Mercedes,73.599,2026,24.5,52.8,1017.6,False,46.6,131.0,219.0,1.4,1.8,True,ActiveAero,19,22.1,False,0.4,1,3.337,0.6,Q1,monaco,Mercedes
+VER,Red Bull Racing,74.504,2026,24.5,53.3,1017.6,False,45.6,43.0,57.0,6.75,8.44,True,ActiveAero,19,21.1,False,1.69,11,3.337,0.75,Q1,monaco,Ford RBPT
+VER,Red Bull Racing,74.007,2026,24.3,54.1,1017.6,False,43.6,43.0,57.0,6.75,8.44,True,ActiveAero,19,19.3,False,1.69,11,3.337,0.75,Q1,monaco,Ford RBPT
+VER,Red Bull Racing,73.49,2026,24.3,54.0,1017.5,False,42.7,43.0,57.0,6.75,8.44,True,ActiveAero,19,18.4,False,1.69,11,3.337,0.75,Q1,monaco,Ford RBPT
+HAM,Ferrari,74.342,2026,24.1,53.7,1017.5,False,41.6,72.0,147.0,5.4,5.0,True,ActiveAero,19,17.5,False,-0.4,19,3.337,0.49,Q1,monaco,Ferrari
+HAM,Ferrari,73.804,2026,24.0,53.6,1017.5,False,40.8,72.0,147.0,5.4,5.0,True,ActiveAero,19,16.8,False,-0.4,19,3.337,0.49,Q1,monaco,Ferrari
+HAM,Ferrari,73.777,2026,23.9,54.4,1017.5,False,40.4,72.0,147.0,5.4,5.0,True,ActiveAero,19,16.5,False,-0.4,19,3.337,0.49,Q1,monaco,Ferrari
+LEC,Ferrari,74.141,2026,24.0,54.0,1017.5,False,39.8,75.0,147.0,4.6,5.0,True,ActiveAero,19,15.8,False,0.4,8,3.337,0.51,Q1,monaco,Ferrari
+LEC,Ferrari,73.399,2026,23.5,53.6,1017.3,False,34.3,75.0,147.0,4.6,5.0,True,ActiveAero,19,10.8,False,0.4,8,3.337,0.51,Q1,monaco,Ferrari
+LEC,Ferrari,73.293,2026,23.4,55.5,1017.4,False,34.8,75.0,147.0,4.6,5.0,True,ActiveAero,19,11.4,False,0.4,8,3.337,0.51,Q1,monaco,Ferrari
+HAD,Red Bull Racing,75.007,2026,23.5,54.4,1017.4,False,34.4,14.0,57.0,9.8,8.44,True,ActiveAero,19,10.9,False,-1.36,1,3.337,0.25,Q1,monaco,Ford RBPT
+HAD,Red Bull Racing,74.617,2026,23.5,55.0,1017.3,False,34.5,14.0,57.0,9.8,8.44,True,ActiveAero,19,11.0,False,-1.36,1,3.337,0.25,Q1,monaco,Ford RBPT
+HAD,Red Bull Racing,74.408,2026,23.6,54.3,1017.3,False,33.5,14.0,57.0,9.8,8.44,True,ActiveAero,19,9.9,False,-1.36,1,3.337,0.25,Q1,monaco,Ford RBPT
+RUS,Mercedes,75.732,2026,23.4,56.1,1017.3,False,33.7,88.0,219.0,2.2,1.8,True,ActiveAero,19,10.3,False,-0.4,7,3.337,0.4,Q1,monaco,Mercedes
+RUS,Mercedes,74.857,2026,23.3,55.8,1017.4,False,34.0,88.0,219.0,2.2,1.8,True,ActiveAero,19,10.7,False,-0.4,7,3.337,0.4,Q1,monaco,Mercedes
+RUS,Mercedes,74.214,2026,23.2,55.1,1017.5,False,33.5,88.0,219.0,2.2,1.8,True,ActiveAero,19,10.3,False,-0.4,7,3.337,0.4,Q1,monaco,Mercedes
+PIA,McLaren,74.818,2026,23.2,56.5,1017.4,False,34.2,48.0,106.0,4.8,4.8,True,ActiveAero,19,11.0,False,0.0,3,3.337,0.45,Q1,monaco,Mercedes
+PIA,McLaren,74.159,2026,23.4,55.6,1017.4,False,34.2,48.0,106.0,4.8,4.8,True,ActiveAero,19,10.8,False,0.0,3,3.337,0.45,Q1,monaco,Mercedes
+PIA,McLaren,74.189,2026,23.0,61.3,1017.5,False,33.3,48.0,106.0,4.8,4.8,True,ActiveAero,19,10.3,False,0.0,3,3.337,0.45,Q1,monaco,Mercedes
+NOR,McLaren,74.295,2026,23.1,60.0,1017.5,False,33.0,58.0,106.0,4.8,4.8,True,ActiveAero,19,9.9,False,0.0,8,3.337,0.55,Q1,monaco,Mercedes
+NOR,McLaren,73.796,2026,23.1,60.2,1017.6,False,33.1,58.0,106.0,4.8,4.8,True,ActiveAero,19,10.0,False,0.0,8,3.337,0.55,Q1,monaco,Mercedes
+NOR,McLaren,73.63,2026,23.1,60.2,1017.6,False,33.1,58.0,106.0,4.8,4.8,True,ActiveAero,19,10.0,False,0.0,8,3.337,0.55,Q1,monaco,Mercedes
+GAS,Alpine,75.725,2026,23.2,59.6,1017.5,False,33.1,20.0,35.0,10.2,11.2,True,ActiveAero,19,9.9,False,1.0,9,3.337,0.57,Q1,monaco,Mercedes
+GAS,Alpine,75.639,2026,23.2,59.6,1017.5,False,33.1,20.0,35.0,10.2,11.2,True,ActiveAero,19,9.9,False,1.0,9,3.337,0.57,Q1,monaco,Mercedes
+GAS,Alpine,74.469,2026,23.3,59.3,1017.5,False,32.5,20.0,35.0,10.2,11.2,True,ActiveAero,19,9.2,False,1.0,9,3.337,0.57,Q1,monaco,Mercedes
+LAW,Racing Bulls,75.477,2026,23.3,59.4,1017.6,False,32.4,16.0,21.0,11.8,11.8,True,ActiveAero,19,9.1,False,0.0,2,3.337,0.76,Q1,monaco,Ford RBPT
+LAW,Racing Bulls,74.498,2026,24.4,52.7,1017.6,False,46.9,16.0,21.0,11.8,11.8,True,ActiveAero,19,22.5,False,0.0,2,3.337,0.76,Q1,monaco,Ford RBPT
+ALB,Williams,76.332,2026,24.5,53.3,1017.6,False,45.6,1.0,7.0,16.6,16.0,True,ActiveAero,19,21.1,False,-0.6,6,3.337,0.14,Q1,monaco,Mercedes
+ALB,Williams,76.662,2026,24.4,53.4,1017.6,False,44.4,1.0,7.0,16.6,16.0,True,ActiveAero,19,20.0,False,-0.6,6,3.337,0.14,Q1,monaco,Mercedes
+ALB,Williams,75.612,2026,24.3,54.1,1017.6,False,43.6,1.0,7.0,16.6,16.0,True,ActiveAero,19,19.3,False,-0.6,6,3.337,0.14,Q1,monaco,Mercedes
+ALB,Williams,74.321,2026,24.2,54.8,1017.5,False,41.9,1.0,7.0,16.6,16.0,True,ActiveAero,19,17.7,False,-0.6,6,3.337,0.14,Q1,monaco,Mercedes
+ALB,Williams,75.276,2026,24.1,53.7,1017.5,False,41.6,1.0,7.0,16.6,16.0,True,ActiveAero,19,17.5,False,-0.6,6,3.337,0.14,Q1,monaco,Mercedes
+SAI,Williams,74.974,2026,24.0,53.6,1017.5,False,40.8,6.0,7.0,15.25,16.0,True,ActiveAero,19,16.8,False,0.75,11,3.337,0.86,Q1,monaco,Mercedes
+SAI,Williams,74.348,2026,23.9,54.4,1017.5,False,40.0,6.0,7.0,15.25,16.0,True,ActiveAero,19,16.1,False,0.75,11,3.337,0.86,Q1,monaco,Mercedes
+HUL,Audi,74.741,2026,23.6,53.0,1017.4,False,35.5,0.0,2.0,11.2,12.5,True,ActiveAero,19,11.9,False,1.3,15,3.337,0.0,Q1,monaco,Audi
+HUL,Audi,75.377,2026,23.5,53.6,1017.3,False,34.3,0.0,2.0,11.2,12.5,True,ActiveAero,19,10.8,False,1.3,15,3.337,0.0,Q1,monaco,Audi
+HUL,Audi,73.923,2026,23.4,54.3,1017.4,False,35.6,0.0,2.0,11.2,12.5,True,ActiveAero,19,12.2,False,1.3,15,3.337,0.0,Q1,monaco,Audi
+COL,Alpine,77.056,2026,23.5,54.4,1017.4,False,34.4,15.0,35.0,12.2,11.2,True,ActiveAero,19,10.9,False,-1.0,2,3.337,0.43,Q1,monaco,Mercedes
+COL,Alpine,75.799,2026,23.5,55.0,1017.3,False,34.5,15.0,35.0,12.2,11.2,True,ActiveAero,19,11.0,False,-1.0,2,3.337,0.43,Q1,monaco,Mercedes
+COL,Alpine,75.186,2026,23.6,54.8,1017.4,False,34.4,15.0,35.0,12.2,11.2,True,ActiveAero,19,10.8,False,-1.0,2,3.337,0.43,Q1,monaco,Mercedes
+LIN,Racing Bulls,76.126,2026,23.2,55.1,1017.5,False,33.5,5.0,21.0,11.8,11.8,True,ActiveAero,19,10.3,False,0.0,0,3.337,0.24,Q1,monaco,Ford RBPT
+LIN,Racing Bulls,75.428,2026,23.3,57.0,1017.5,False,34.0,5.0,21.0,11.8,11.8,True,ActiveAero,19,10.7,False,0.0,0,3.337,0.24,Q1,monaco,Ford RBPT
+LIN,Racing Bulls,74.685,2026,23.4,55.6,1017.4,False,34.2,5.0,21.0,11.8,11.8,True,ActiveAero,19,10.8,False,0.0,0,3.337,0.24,Q1,monaco,Ford RBPT
+BOR,Audi,74.683,2026,23.0,61.3,1017.5,False,33.3,2.0,2.0,13.8,12.5,True,ActiveAero,19,10.3,False,-1.3,1,3.337,1.0,Q1,monaco,Audi
+BOR,Audi,75.11,2026,23.1,60.0,1017.5,False,33.0,2.0,2.0,13.8,12.5,True,ActiveAero,19,9.9,False,-1.3,1,3.337,1.0,Q1,monaco,Audi
+OCO,Haas F1 Team,76.619,2026,23.1,60.2,1017.6,False,33.1,1.0,19.0,13.8,13.7,True,ActiveAero,19,10.0,False,-0.1,10,3.337,0.05,Q1,monaco,Ferrari
+OCO,Haas F1 Team,75.343,2026,23.2,59.0,1017.5,False,33.2,1.0,19.0,13.8,13.7,True,ActiveAero,19,10.0,False,-0.1,10,3.337,0.05,Q1,monaco,Ferrari
+OCO,Haas F1 Team,75.043,2026,23.2,59.6,1017.5,False,33.1,1.0,19.0,13.8,13.7,True,ActiveAero,19,9.9,False,-0.1,10,3.337,0.05,Q1,monaco,Ferrari
+OCO,Haas F1 Team,74.722,2026,23.2,59.6,1017.5,False,33.1,1.0,19.0,13.8,13.7,True,ActiveAero,19,9.9,False,-0.1,10,3.337,0.05,Q1,monaco,Ferrari
+OCO,Haas F1 Team,74.969,2026,23.2,59.6,1017.5,False,33.1,1.0,19.0,13.8,13.7,True,ActiveAero,19,9.9,False,-0.1,10,3.337,0.05,Q1,monaco,Ferrari
+PER,Cadillac,76.743,2026,23.3,59.3,1017.5,False,32.5,0.0,0.0,19.8,19.9,True,ActiveAero,19,9.2,False,0.1,13,3.337,0.5,Q1,monaco,Ferrari
+PER,Cadillac,76.056,2026,24.2,52.3,1017.6,False,47.0,0.0,0.0,19.8,19.9,True,ActiveAero,19,22.8,False,0.1,13,3.337,0.5,Q1,monaco,Ferrari
+BEA,Haas F1 Team,75.936,2026,24.5,52.8,1017.6,False,46.6,18.0,19.0,13.6,13.7,True,ActiveAero,19,22.1,False,0.1,1,3.337,0.95,Q1,monaco,Ferrari
+BEA,Haas F1 Team,75.346,2026,24.5,53.3,1017.6,False,45.6,18.0,19.0,13.6,13.7,True,ActiveAero,19,21.1,False,0.1,1,3.337,0.95,Q1,monaco,Ferrari
+BEA,Haas F1 Team,74.905,2026,24.3,54.1,1017.6,False,43.6,18.0,19.0,13.6,13.7,True,ActiveAero,19,19.3,False,0.1,1,3.337,0.95,Q1,monaco,Ferrari
+BEA,Haas F1 Team,74.814,2026,24.2,54.8,1017.5,False,41.9,18.0,19.0,13.6,13.7,True,ActiveAero,19,17.7,False,0.1,1,3.337,0.95,Q1,monaco,Ferrari
+BOT,Cadillac,76.372,2026,24.1,53.7,1017.5,False,41.6,0.0,0.0,20.0,19.9,True,ActiveAero,19,17.5,False,-0.1,12,3.337,0.5,Q1,monaco,Ferrari
+BOT,Cadillac,75.283,2026,23.9,54.4,1017.5,False,40.0,0.0,0.0,20.0,19.9,True,ActiveAero,19,16.1,False,-0.1,12,3.337,0.5,Q1,monaco,Ferrari
+ALO,Aston Martin,76.073,2026,24.0,54.0,1017.5,False,39.8,0.0,0.0,18.6,19.44,True,ActiveAero,19,15.8,False,0.84,22,3.337,0.5,Q1,monaco,Honda
+ALO,Aston Martin,76.03,2026,23.6,53.0,1017.4,False,35.5,0.0,0.0,18.6,19.44,True,ActiveAero,19,11.9,False,0.84,22,3.337,0.5,Q1,monaco,Honda
+ALO,Aston Martin,75.349,2026,23.4,54.3,1017.4,False,35.6,0.0,0.0,18.6,19.44,True,ActiveAero,19,12.2,False,0.84,22,3.337,0.5,Q1,monaco,Honda
+STR,Aston Martin,76.965,2026,23.4,55.5,1017.4,False,34.8,0.0,0.0,20.5,19.44,True,ActiveAero,19,11.4,False,-1.06,9,3.337,0.5,Q1,monaco,Honda
+STR,Aston Martin,76.061,2026,23.5,54.4,1017.4,False,34.4,0.0,0.0,20.5,19.44,True,ActiveAero,19,10.9,False,-1.06,9,3.337,0.5,Q1,monaco,Honda
+ANT,Mercedes,72.778,2026,23.6,54.3,1017.3,False,33.5,131.0,219.0,1.4,1.8,True,ActiveAero,19,9.9,False,0.4,1,3.337,0.6,Q2,monaco,Mercedes
+ANT,Mercedes,72.704,2026,23.4,56.1,1017.3,False,33.7,131.0,219.0,1.4,1.8,True,ActiveAero,19,10.3,False,0.4,1,3.337,0.6,Q2,monaco,Mercedes
+ANT,Mercedes,72.753,2026,23.3,55.8,1017.4,False,34.0,131.0,219.0,1.4,1.8,True,ActiveAero,19,10.7,False,0.4,1,3.337,0.6,Q2,monaco,Mercedes
+VER,Red Bull Racing,73.205,2026,23.2,56.5,1017.4,False,34.2,43.0,57.0,6.75,8.44,True,ActiveAero,19,11.0,False,1.69,11,3.337,0.75,Q2,monaco,Ford RBPT
+VER,Red Bull Racing,72.84,2026,23.3,57.0,1017.5,False,34.0,43.0,57.0,6.75,8.44,True,ActiveAero,19,10.7,False,1.69,11,3.337,0.75,Q2,monaco,Ford RBPT
+VER,Red Bull Racing,77.073,2026,23.6,54.7,1017.5,False,33.0,43.0,57.0,6.75,8.44,True,ActiveAero,19,9.4,False,1.69,11,3.337,0.75,Q2,monaco,Ford RBPT
+VER,Red Bull Racing,72.499,2026,23.0,61.3,1017.5,False,33.3,43.0,57.0,6.75,8.44,True,ActiveAero,19,10.3,False,1.69,11,3.337,0.75,Q2,monaco,Ford RBPT
+HAM,Ferrari,73.091,2026,23.0,61.3,1017.5,False,33.3,72.0,147.0,5.4,5.0,True,ActiveAero,19,10.3,False,-0.4,19,3.337,0.49,Q2,monaco,Ferrari
+HAM,Ferrari,72.934,2026,23.1,60.2,1017.6,False,33.1,72.0,147.0,5.4,5.0,True,ActiveAero,19,10.0,False,-0.4,19,3.337,0.49,Q2,monaco,Ferrari
+LEC,Ferrari,72.928,2026,23.1,60.2,1017.6,False,33.1,75.0,147.0,4.6,5.0,True,ActiveAero,19,10.0,False,0.4,8,3.337,0.51,Q2,monaco,Ferrari
+LEC,Ferrari,72.774,2026,23.2,59.6,1017.5,False,33.1,75.0,147.0,4.6,5.0,True,ActiveAero,19,9.9,False,0.4,8,3.337,0.51,Q2,monaco,Ferrari
+LEC,Ferrari,73.3,2026,23.2,59.6,1017.5,False,33.1,75.0,147.0,4.6,5.0,True,ActiveAero,19,9.9,False,0.4,8,3.337,0.51,Q2,monaco,Ferrari
+HAD,Red Bull Racing,73.162,2026,23.2,59.6,1017.5,False,33.1,14.0,57.0,9.8,8.44,True,ActiveAero,19,9.9,False,-1.36,1,3.337,0.25,Q2,monaco,Ford RBPT
+HAD,Red Bull Racing,72.722,2026,23.3,59.3,1017.5,False,32.5,14.0,57.0,9.8,8.44,True,ActiveAero,19,9.2,False,-1.36,1,3.337,0.25,Q2,monaco,Ford RBPT
+RUS,Mercedes,73.723,2026,24.2,52.3,1017.6,False,47.0,88.0,219.0,2.2,1.8,True,ActiveAero,19,22.8,False,-0.4,7,3.337,0.4,Q2,monaco,Mercedes
+RUS,Mercedes,73.321,2026,24.4,52.7,1017.6,False,46.6,88.0,219.0,2.2,1.8,True,ActiveAero,19,22.2,False,-0.4,7,3.337,0.4,Q2,monaco,Mercedes
+RUS,Mercedes,73.238,2026,24.5,52.8,1017.6,False,46.6,88.0,219.0,2.2,1.8,True,ActiveAero,19,22.1,False,-0.4,7,3.337,0.4,Q2,monaco,Mercedes
+PIA,McLaren,73.072,2026,24.5,53.3,1017.6,False,45.6,48.0,106.0,4.8,4.8,True,ActiveAero,19,21.1,False,0.0,3,3.337,0.45,Q2,monaco,Mercedes
+PIA,McLaren,73.01,2026,24.4,53.4,1017.6,False,44.4,48.0,106.0,4.8,4.8,True,ActiveAero,19,20.0,False,0.0,3,3.337,0.45,Q2,monaco,Mercedes
+PIA,McLaren,72.983,2026,24.3,54.0,1017.5,False,42.7,48.0,106.0,4.8,4.8,True,ActiveAero,19,18.4,False,0.0,3,3.337,0.45,Q2,monaco,Mercedes
+NOR,McLaren,72.919,2026,24.2,54.8,1017.5,False,41.9,58.0,106.0,4.8,4.8,True,ActiveAero,19,17.7,False,0.0,8,3.337,0.55,Q2,monaco,Mercedes
+NOR,McLaren,72.976,2026,24.0,53.6,1017.5,False,40.8,58.0,106.0,4.8,4.8,True,ActiveAero,19,16.8,False,0.0,8,3.337,0.55,Q2,monaco,Mercedes
+NOR,McLaren,73.263,2026,23.9,54.4,1017.5,False,40.4,58.0,106.0,4.8,4.8,True,ActiveAero,19,16.5,False,0.0,8,3.337,0.55,Q2,monaco,Mercedes
+GAS,Alpine,74.151,2026,24.0,54.0,1017.5,False,39.8,20.0,35.0,10.2,11.2,True,ActiveAero,19,15.8,False,1.0,9,3.337,0.57,Q2,monaco,Mercedes
+GAS,Alpine,73.762,2026,23.6,53.0,1017.4,False,35.5,20.0,35.0,10.2,11.2,True,ActiveAero,19,11.9,False,1.0,9,3.337,0.57,Q2,monaco,Mercedes
+GAS,Alpine,74.224,2026,23.4,54.3,1017.4,False,35.6,20.0,35.0,10.2,11.2,True,ActiveAero,19,12.2,False,1.0,9,3.337,0.57,Q2,monaco,Mercedes
+LAW,Racing Bulls,74.097,2026,23.4,55.5,1017.4,False,34.8,16.0,21.0,11.8,11.8,True,ActiveAero,19,11.4,False,0.0,2,3.337,0.76,Q2,monaco,Ford RBPT
+LAW,Racing Bulls,73.827,2026,23.5,54.4,1017.4,False,34.4,16.0,21.0,11.8,11.8,True,ActiveAero,19,10.9,False,0.0,2,3.337,0.76,Q2,monaco,Ford RBPT
+LAW,Racing Bulls,73.471,2026,23.6,54.8,1017.4,False,34.4,16.0,21.0,11.8,11.8,True,ActiveAero,19,10.8,False,0.0,2,3.337,0.76,Q2,monaco,Ford RBPT
+ALB,Williams,74.287,2026,23.6,54.3,1017.3,False,33.5,1.0,7.0,16.6,16.0,True,ActiveAero,19,9.9,False,-0.6,6,3.337,0.14,Q2,monaco,Mercedes
+ALB,Williams,74.136,2026,23.4,56.5,1017.4,False,33.8,1.0,7.0,16.6,16.0,True,ActiveAero,19,10.4,False,-0.6,6,3.337,0.14,Q2,monaco,Mercedes
+ALB,Williams,73.787,2026,23.2,55.1,1017.5,False,33.5,1.0,7.0,16.6,16.0,True,ActiveAero,19,10.3,False,-0.6,6,3.337,0.14,Q2,monaco,Mercedes
+SAI,Williams,73.936,2026,23.2,56.5,1017.4,False,34.2,6.0,7.0,15.25,16.0,True,ActiveAero,19,11.0,False,0.75,11,3.337,0.86,Q2,monaco,Mercedes
+SAI,Williams,74.123,2026,23.4,55.6,1017.4,False,34.2,6.0,7.0,15.25,16.0,True,ActiveAero,19,10.8,False,0.75,11,3.337,0.86,Q2,monaco,Mercedes
+SAI,Williams,73.815,2026,23.6,54.7,1017.5,False,33.0,6.0,7.0,15.25,16.0,True,ActiveAero,19,9.4,False,0.75,11,3.337,0.86,Q2,monaco,Mercedes
+HUL,Audi,73.949,2026,23.0,61.3,1017.5,False,33.3,0.0,2.0,11.2,12.5,True,ActiveAero,19,10.3,False,1.3,15,3.337,0.0,Q2,monaco,Audi
+HUL,Audi,73.902,2026,23.0,61.3,1017.5,False,33.3,0.0,2.0,11.2,12.5,True,ActiveAero,19,10.3,False,1.3,15,3.337,0.0,Q2,monaco,Audi
+HUL,Audi,74.091,2026,23.1,60.0,1017.5,False,33.0,0.0,2.0,11.2,12.5,True,ActiveAero,19,9.9,False,1.3,15,3.337,0.0,Q2,monaco,Audi
+COL,Alpine,74.53,2026,23.2,59.1,1017.5,False,33.0,15.0,35.0,12.2,11.2,True,ActiveAero,19,9.8,False,-1.0,2,3.337,0.43,Q2,monaco,Mercedes
+COL,Alpine,73.995,2026,23.2,59.6,1017.5,False,33.1,15.0,35.0,12.2,11.2,True,ActiveAero,19,9.9,False,-1.0,2,3.337,0.43,Q2,monaco,Mercedes
+COL,Alpine,74.102,2026,23.2,59.6,1017.5,False,33.1,15.0,35.0,12.2,11.2,True,ActiveAero,19,9.9,False,-1.0,2,3.337,0.43,Q2,monaco,Mercedes
+LIN,Racing Bulls,74.248,2026,23.2,59.6,1017.5,False,33.1,5.0,21.0,11.8,11.8,True,ActiveAero,19,9.9,False,0.0,0,3.337,0.24,Q2,monaco,Ford RBPT
+LIN,Racing Bulls,74.355,2026,23.3,59.3,1017.5,False,32.5,5.0,21.0,11.8,11.8,True,ActiveAero,19,9.2,False,0.0,0,3.337,0.24,Q2,monaco,Ford RBPT
+LIN,Racing Bulls,74.363,2026,24.2,52.3,1017.6,False,47.0,5.0,21.0,11.8,11.8,True,ActiveAero,19,22.8,False,0.0,0,3.337,0.24,Q2,monaco,Ford RBPT
+ANT,Mercedes,72.375,2026,24.4,52.7,1017.6,False,46.6,131.0,219.0,1.4,1.8,True,ActiveAero,19,22.2,False,0.4,1,3.337,0.6,Q3,monaco,Mercedes
+VER,Red Bull Racing,72.376,2026,24.5,53.3,1017.6,False,45.6,43.0,57.0,6.75,8.44,True,ActiveAero,19,21.1,False,1.69,11,3.337,0.75,Q3,monaco,Ford RBPT
+VER,Red Bull Racing,72.094,2026,24.3,54.1,1017.6,False,43.6,43.0,57.0,6.75,8.44,True,ActiveAero,19,19.3,False,1.69,11,3.337,0.75,Q3,monaco,Ford RBPT
+HAM,Ferrari,72.553,2026,24.3,54.0,1017.5,False,42.7,72.0,147.0,5.4,5.0,True,ActiveAero,19,18.4,False,-0.4,19,3.337,0.49,Q3,monaco,Ferrari
+HAM,Ferrari,72.279,2026,24.2,54.8,1017.5,False,41.9,72.0,147.0,5.4,5.0,True,ActiveAero,19,17.7,False,-0.4,19,3.337,0.49,Q3,monaco,Ferrari
+LEC,Ferrari,76.662,2026,24.0,53.6,1017.5,False,40.8,75.0,147.0,4.6,5.0,True,ActiveAero,19,16.8,False,0.4,8,3.337,0.51,Q3,monaco,Ferrari
+LEC,Ferrari,76.924,2026,23.8,53.1,1017.5,False,37.0,75.0,147.0,4.6,5.0,True,ActiveAero,19,13.2,False,0.4,8,3.337,0.51,Q3,monaco,Ferrari
+LEC,Ferrari,72.351,2026,23.5,53.6,1017.3,False,34.3,75.0,147.0,4.6,5.0,True,ActiveAero,19,10.8,False,0.4,8,3.337,0.51,Q3,monaco,Ferrari
+HAD,Red Bull Racing,72.885,2026,23.4,54.3,1017.4,False,35.6,14.0,57.0,9.8,8.44,True,ActiveAero,19,12.2,False,-1.36,1,3.337,0.25,Q3,monaco,Ford RBPT
+HAD,Red Bull Racing,72.434,2026,23.4,55.5,1017.4,False,34.8,14.0,57.0,9.8,8.44,True,ActiveAero,19,11.4,False,-1.36,1,3.337,0.25,Q3,monaco,Ford RBPT
+RUS,Mercedes,72.826,2026,23.5,55.0,1017.3,False,34.5,88.0,219.0,2.2,1.8,True,ActiveAero,19,11.0,False,-0.4,7,3.337,0.4,Q3,monaco,Mercedes
+RUS,Mercedes,72.445,2026,23.3,55.8,1017.4,False,34.0,88.0,219.0,2.2,1.8,True,ActiveAero,19,10.7,False,-0.4,7,3.337,0.4,Q3,monaco,Mercedes
+PIA,McLaren,72.916,2026,23.2,56.5,1017.4,False,34.2,48.0,106.0,4.8,4.8,True,ActiveAero,19,11.0,False,0.0,3,3.337,0.45,Q3,monaco,Mercedes
+PIA,McLaren,72.624,2026,23.3,57.0,1017.5,False,34.0,48.0,106.0,4.8,4.8,True,ActiveAero,19,10.7,False,0.0,3,3.337,0.45,Q3,monaco,Mercedes
+NOR,McLaren,72.765,2026,23.4,55.6,1017.4,False,34.2,58.0,106.0,4.8,4.8,True,ActiveAero,19,10.8,False,0.0,8,3.337,0.55,Q3,monaco,Mercedes
+GAS,Alpine,74.012,2026,23.0,61.3,1017.5,False,33.3,20.0,35.0,10.2,11.2,True,ActiveAero,19,10.3,False,1.0,9,3.337,0.57,Q3,monaco,Mercedes
+GAS,Alpine,73.226,2026,23.1,60.0,1017.5,False,33.0,20.0,35.0,10.2,11.2,True,ActiveAero,19,9.9,False,1.0,9,3.337,0.57,Q3,monaco,Mercedes
+LAW,Racing Bulls,73.79,2026,23.1,60.2,1017.6,False,33.1,16.0,21.0,11.8,11.8,True,ActiveAero,19,10.0,False,0.0,2,3.337,0.76,Q3,monaco,Ford RBPT
+LAW,Racing Bulls,73.412,2026,23.2,59.0,1017.5,False,33.2,16.0,21.0,11.8,11.8,True,ActiveAero,19,10.0,False,0.0,2,3.337,0.76,Q3,monaco,Ford RBPT
+RUS,Mercedes,75.717,2026,30.5,29.9,1006.5,False,50.7,88.0,244.0,2.83,2.08,False,ActiveAero,14,20.2,False,-0.75,7,4.657,0.36,Q1,catalunya,Mercedes
+HAM,Ferrari,75.625,2026,30.7,30.6,1006.5,False,50.6,90.0,165.0,5.0,4.75,False,ActiveAero,14,19.9,False,-0.25,19,4.657,0.55,Q1,catalunya,Ferrari
+ANT,Mercedes,75.977,2026,30.7,29.8,1006.4,False,50.9,156.0,244.0,1.33,2.08,False,ActiveAero,14,20.2,False,0.75,1,4.657,0.64,Q1,catalunya,Mercedes
+NOR,McLaren,76.287,2026,30.9,29.5,1006.5,False,51.2,58.0,118.0,5.33,5.25,False,ActiveAero,14,20.3,False,-0.08,8,4.657,0.49,Q1,catalunya,Mercedes
+VER,Red Bull Racing,76.352,2026,30.6,28.2,1006.3,False,50.6,43.0,72.0,5.8,7.55,False,ActiveAero,14,20.0,False,1.75,11,4.657,0.6,Q1,catalunya,Ford RBPT
+HAD,Red Bull Racing,76.427,2026,30.7,27.7,1006.3,False,50.6,29.0,72.0,9.0,7.55,False,ActiveAero,14,19.9,False,-1.45,1,4.657,0.4,Q1,catalunya,Ford RBPT
+PIA,McLaren,76.138,2026,30.7,27.3,1006.2,False,49.6,60.0,118.0,5.17,5.25,False,ActiveAero,14,18.9,False,0.08,3,4.657,0.51,Q1,catalunya,Mercedes
+LAW,Racing Bulls,76.673,2026,30.8,25.9,1005.9,False,48.7,26.0,39.0,11.5,11.92,False,ActiveAero,14,17.9,False,0.42,2,4.657,0.67,Q1,catalunya,Ford RBPT
+HUL,Audi,76.954,2026,30.6,26.1,1006.0,False,49.4,0.0,2.0,11.5,12.83,False,ActiveAero,14,18.8,False,1.33,15,4.657,0.0,Q1,catalunya,Audi
+HUL,Audi,76.066,2026,30.6,26.6,1005.9,False,49.9,0.0,2.0,11.5,12.83,False,ActiveAero,14,19.3,False,1.33,15,4.657,0.0,Q1,catalunya,Audi
+LEC,Ferrari,75.964,2026,30.4,26.4,1005.9,False,48.4,75.0,165.0,4.5,4.75,False,ActiveAero,14,18.0,False,0.25,8,4.657,0.45,Q1,catalunya,Ferrari
+LIN,Racing Bulls,76.425,2026,30.4,26.6,1005.9,False,48.6,13.0,39.0,12.33,11.92,False,ActiveAero,14,18.2,False,-0.41,0,4.657,0.33,Q1,catalunya,Ford RBPT
+BOR,Audi,76.616,2026,30.3,26.6,1005.9,False,48.8,2.0,2.0,14.17,12.83,False,ActiveAero,14,18.5,False,-1.34,1,4.657,1.0,Q1,catalunya,Audi
+COL,Alpine,77.225,2026,30.5,29.9,1006.5,False,50.7,15.0,41.0,12.5,11.25,False,ActiveAero,14,20.2,False,-1.25,2,4.657,0.37,Q1,catalunya,Mercedes
+COL,Alpine,76.59,2026,30.7,30.6,1006.5,False,50.6,15.0,41.0,12.5,11.25,False,ActiveAero,14,19.9,False,-1.25,2,4.657,0.37,Q1,catalunya,Mercedes
+GAS,Alpine,77.08,2026,30.7,29.8,1006.4,False,50.9,26.0,41.0,10.0,11.25,False,ActiveAero,14,20.2,False,1.25,9,4.657,0.63,Q1,catalunya,Mercedes
+GAS,Alpine,76.599,2026,30.9,29.5,1006.5,False,51.2,26.0,41.0,10.0,11.25,False,ActiveAero,14,20.3,False,1.25,9,4.657,0.63,Q1,catalunya,Mercedes
+BEA,Haas F1 Team,78.216,2026,30.6,28.2,1006.3,False,50.6,18.0,21.0,14.5,14.42,False,ActiveAero,14,20.0,False,-0.08,1,4.657,0.86,Q1,catalunya,Ferrari
+BEA,Haas F1 Team,77.444,2026,30.7,27.6,1006.2,False,50.3,18.0,21.0,14.5,14.42,False,ActiveAero,14,19.6,False,-0.08,1,4.657,0.86,Q1,catalunya,Ferrari
+BEA,Haas F1 Team,76.571,2026,30.7,27.3,1006.2,False,49.6,18.0,21.0,14.5,14.42,False,ActiveAero,14,18.9,False,-0.08,1,4.657,0.86,Q1,catalunya,Ferrari
+SAI,Williams,78.107,2026,30.9,26.6,1006.0,False,49.9,6.0,11.0,14.6,15.18,False,ActiveAero,14,19.0,False,0.58,11,4.657,0.55,Q1,catalunya,Mercedes
+SAI,Williams,76.881,2026,30.6,26.1,1006.0,False,49.4,6.0,11.0,14.6,15.18,False,ActiveAero,14,18.8,False,0.58,11,4.657,0.55,Q1,catalunya,Mercedes
+OCO,Haas F1 Team,78.171,2026,30.6,26.1,1006.0,False,49.2,3.0,21.0,14.33,14.42,False,ActiveAero,14,18.6,False,0.09,10,4.657,0.14,Q1,catalunya,Ferrari
+OCO,Haas F1 Team,78.136,2026,30.4,26.4,1005.9,False,48.4,3.0,21.0,14.33,14.42,False,ActiveAero,14,18.0,False,0.09,10,4.657,0.14,Q1,catalunya,Ferrari
+OCO,Haas F1 Team,77.073,2026,30.3,26.6,1005.9,False,48.8,3.0,21.0,14.33,14.42,False,ActiveAero,14,18.5,False,0.09,10,4.657,0.14,Q1,catalunya,Ferrari
+ALB,Williams,78.252,2026,30.4,26.7,1005.8,False,49.2,5.0,11.0,15.67,15.18,False,ActiveAero,14,18.8,False,-0.49,6,4.657,0.45,Q1,catalunya,Mercedes
+ALB,Williams,77.424,2026,30.5,29.9,1006.5,False,50.7,5.0,11.0,15.67,15.18,False,ActiveAero,14,20.2,False,-0.49,6,4.657,0.45,Q1,catalunya,Mercedes
+PER,Cadillac,78.13,2026,30.7,30.6,1006.5,False,50.6,0.0,0.0,19.5,19.75,False,ActiveAero,14,19.9,False,0.25,13,4.657,0.5,Q1,catalunya,Ferrari
+PER,Cadillac,77.545,2026,30.7,29.8,1006.4,False,50.9,0.0,0.0,19.5,19.75,False,ActiveAero,14,20.2,False,0.25,13,4.657,0.5,Q1,catalunya,Ferrari
+BOT,Cadillac,79.105,2026,30.9,28.5,1006.4,False,49.1,0.0,0.0,20.0,19.75,False,ActiveAero,14,18.2,False,-0.25,12,4.657,0.5,Q1,catalunya,Ferrari
+BOT,Cadillac,77.757,2026,30.7,27.7,1006.3,False,50.6,0.0,0.0,20.0,19.75,False,ActiveAero,14,19.9,False,-0.25,12,4.657,0.5,Q1,catalunya,Ferrari
+STR,Aston Martin,78.758,2026,30.7,27.3,1006.2,False,49.6,0.0,1.0,20.8,19.82,False,ActiveAero,14,18.9,False,-0.98,9,4.657,0.0,Q1,catalunya,Honda
+ALO,Aston Martin,79.286,2026,30.9,26.8,1006.0,False,50.1,1.0,1.0,19.0,19.82,False,ActiveAero,14,19.2,False,0.82,22,4.657,1.0,Q1,catalunya,Honda
+ALO,Aston Martin,78.815,2026,30.8,25.9,1005.9,False,48.7,1.0,1.0,19.0,19.82,False,ActiveAero,14,17.9,False,0.82,22,4.657,1.0,Q1,catalunya,Honda
+RUS,Mercedes,75.228,2026,30.6,26.1,1006.0,False,49.4,88.0,244.0,2.83,2.08,False,ActiveAero,14,18.8,False,-0.75,7,4.657,0.36,Q2,catalunya,Mercedes
+HAM,Ferrari,75.418,2026,30.6,26.6,1005.9,False,49.9,90.0,165.0,5.0,4.75,False,ActiveAero,14,19.3,False,-0.25,19,4.657,0.55,Q2,catalunya,Ferrari
+ANT,Mercedes,75.295,2026,30.4,26.4,1005.9,False,48.4,156.0,244.0,1.33,2.08,False,ActiveAero,14,18.0,False,0.75,1,4.657,0.64,Q2,catalunya,Mercedes
+NOR,McLaren,76.021,2026,30.4,26.6,1005.9,False,48.6,58.0,118.0,5.33,5.25,False,ActiveAero,14,18.2,False,-0.08,8,4.657,0.49,Q2,catalunya,Mercedes
+NOR,McLaren,75.361,2026,30.3,26.6,1005.9,False,48.8,58.0,118.0,5.33,5.25,False,ActiveAero,14,18.5,False,-0.08,8,4.657,0.49,Q2,catalunya,Mercedes
+VER,Red Bull Racing,75.484,2026,30.6,29.8,1006.5,False,51.0,43.0,72.0,5.8,7.55,False,ActiveAero,14,20.4,False,1.75,11,4.657,0.6,Q2,catalunya,Ford RBPT
+HAD,Red Bull Racing,75.754,2026,30.7,29.8,1006.4,False,50.9,29.0,72.0,9.0,7.55,False,ActiveAero,14,20.2,False,-1.45,1,4.657,0.4,Q2,catalunya,Ford RBPT
+PIA,McLaren,76.352,2026,30.8,29.3,1006.4,False,50.4,60.0,118.0,5.17,5.25,False,ActiveAero,14,19.6,False,0.08,3,4.657,0.51,Q2,catalunya,Mercedes
+PIA,McLaren,75.518,2026,30.9,28.5,1006.4,False,49.1,60.0,118.0,5.17,5.25,False,ActiveAero,14,18.2,False,0.08,3,4.657,0.51,Q2,catalunya,Mercedes
+LAW,Racing Bulls,76.18,2026,30.7,27.7,1006.3,False,50.6,26.0,39.0,11.5,11.92,False,ActiveAero,14,19.9,False,0.42,2,4.657,0.67,Q2,catalunya,Ford RBPT
+LAW,Racing Bulls,75.585,2026,30.7,27.6,1006.2,False,50.3,26.0,39.0,11.5,11.92,False,ActiveAero,14,19.6,False,0.42,2,4.657,0.67,Q2,catalunya,Ford RBPT
+HUL,Audi,75.768,2026,30.7,27.2,1006.2,False,50.3,0.0,2.0,11.5,12.83,False,ActiveAero,14,19.6,False,1.33,15,4.657,0.0,Q2,catalunya,Audi
+LEC,Ferrari,75.281,2026,30.8,26.6,1006.2,False,50.1,75.0,165.0,4.5,4.75,False,ActiveAero,14,19.3,False,0.25,8,4.657,0.45,Q2,catalunya,Ferrari
+LIN,Racing Bulls,75.84,2026,31.4,26.8,1006.2,False,49.8,13.0,39.0,12.33,11.92,False,ActiveAero,14,18.4,False,-0.41,0,4.657,0.33,Q2,catalunya,Ford RBPT
+BOR,Audi,76.66,2026,30.9,26.6,1006.0,False,49.9,2.0,2.0,14.17,12.83,False,ActiveAero,14,19.0,False,-1.34,1,4.657,1.0,Q2,catalunya,Audi
+BOR,Audi,76.001,2026,30.5,26.3,1005.9,False,48.8,2.0,2.0,14.17,12.83,False,ActiveAero,14,18.3,False,-1.34,1,4.657,1.0,Q2,catalunya,Audi
+COL,Alpine,77.376,2026,30.4,26.6,1005.9,False,48.6,15.0,41.0,12.5,11.25,False,ActiveAero,14,18.2,False,-1.25,2,4.657,0.37,Q2,catalunya,Mercedes
+COL,Alpine,76.191,2026,30.4,26.7,1005.8,False,49.2,15.0,41.0,12.5,11.25,False,ActiveAero,14,18.8,False,-1.25,2,4.657,0.37,Q2,catalunya,Mercedes
+GAS,Alpine,77.626,2026,30.6,30.0,1006.5,False,50.9,26.0,41.0,10.0,11.25,False,ActiveAero,14,20.3,False,1.25,9,4.657,0.63,Q2,catalunya,Mercedes
+GAS,Alpine,76.261,2026,30.6,29.8,1006.5,False,51.0,26.0,41.0,10.0,11.25,False,ActiveAero,14,20.4,False,1.25,9,4.657,0.63,Q2,catalunya,Mercedes
+BEA,Haas F1 Team,77.5,2026,30.7,30.6,1006.5,False,50.6,18.0,21.0,14.5,14.42,False,ActiveAero,14,19.9,False,-0.08,1,4.657,0.86,Q2,catalunya,Ferrari
+BEA,Haas F1 Team,76.389,2026,30.8,29.3,1006.4,False,50.4,18.0,21.0,14.5,14.42,False,ActiveAero,14,19.6,False,-0.08,1,4.657,0.86,Q2,catalunya,Ferrari
+SAI,Williams,78.395,2026,30.6,28.5,1006.3,False,50.8,6.0,11.0,14.6,15.18,False,ActiveAero,14,20.2,False,0.58,11,4.657,0.55,Q2,catalunya,Mercedes
+SAI,Williams,77.827,2026,30.6,28.2,1006.3,False,50.6,6.0,11.0,14.6,15.18,False,ActiveAero,14,20.0,False,0.58,11,4.657,0.55,Q2,catalunya,Mercedes
+RUS,Mercedes,75.145,2026,30.7,27.6,1006.2,False,50.3,88.0,244.0,2.83,2.08,False,ActiveAero,14,19.6,False,-0.75,7,4.657,0.36,Q3,catalunya,Mercedes
+RUS,Mercedes,74.679,2026,30.8,27.0,1006.0,False,49.5,88.0,244.0,2.83,2.08,False,ActiveAero,14,18.7,False,-0.75,7,4.657,0.36,Q3,catalunya,Mercedes
+HAM,Ferrari,75.71,2026,30.9,26.8,1006.0,False,50.1,90.0,165.0,5.0,4.75,False,ActiveAero,14,19.2,False,-0.25,19,4.657,0.55,Q3,catalunya,Ferrari
+HAM,Ferrari,74.743,2026,30.5,26.3,1005.9,False,48.8,90.0,165.0,5.0,4.75,False,ActiveAero,14,18.3,False,-0.25,19,4.657,0.55,Q3,catalunya,Ferrari
+ANT,Mercedes,75.414,2026,30.3,26.6,1005.9,False,48.8,156.0,244.0,1.33,2.08,False,ActiveAero,14,18.5,False,0.75,1,4.657,0.64,Q3,catalunya,Mercedes
+ANT,Mercedes,74.998,2026,30.4,26.7,1005.8,False,49.2,156.0,244.0,1.33,2.08,False,ActiveAero,14,18.8,False,0.75,1,4.657,0.64,Q3,catalunya,Mercedes
+NOR,McLaren,75.001,2026,30.5,29.9,1006.5,False,50.7,58.0,118.0,5.33,5.25,False,ActiveAero,14,20.2,False,-0.08,8,4.657,0.49,Q3,catalunya,Mercedes
+VER,Red Bull Racing,75.021,2026,30.7,29.8,1006.4,False,50.9,43.0,72.0,5.8,7.55,False,ActiveAero,14,20.2,False,1.75,11,4.657,0.6,Q3,catalunya,Ford RBPT
+HAD,Red Bull Racing,75.65,2026,30.9,29.5,1006.5,False,51.2,29.0,72.0,9.0,7.55,False,ActiveAero,14,20.3,False,-1.45,1,4.657,0.4,Q3,catalunya,Ford RBPT
+HAD,Red Bull Racing,75.077,2026,30.6,28.5,1006.3,False,50.8,29.0,72.0,9.0,7.55,False,ActiveAero,14,20.2,False,-1.45,1,4.657,0.4,Q3,catalunya,Ford RBPT
+PIA,McLaren,75.09,2026,30.7,27.3,1006.2,False,49.6,60.0,118.0,5.17,5.25,False,ActiveAero,14,18.9,False,0.08,3,4.657,0.51,Q3,catalunya,Mercedes
+LAW,Racing Bulls,76.542,2026,30.9,26.6,1006.0,False,49.9,26.0,39.0,11.5,11.92,False,ActiveAero,14,19.0,False,0.42,2,4.657,0.67,Q3,catalunya,Ford RBPT
+HUL,Audi,76.657,2026,30.8,25.9,1005.9,False,48.7,0.0,2.0,11.5,12.83,False,ActiveAero,14,17.9,False,1.33,15,4.657,0.0,Q3,catalunya,Audi
+RUS,Mercedes,67.811,2026,33.2,25.5,943.1,False,52.9,106.0,262.0,2.57,2.07,False,ActiveAero,10,19.7,False,-0.5,7,4.318,0.4,Q1,red_bull_ring,Mercedes
+RUS,Mercedes,67.591,2026,33.1,25.6,943.1,False,51.9,106.0,262.0,2.57,2.07,False,ActiveAero,10,18.8,False,-0.5,7,4.318,0.4,Q1,red_bull_ring,Mercedes
+RUS,Mercedes,67.398,2026,33.4,25.5,943.1,False,51.7,106.0,262.0,2.57,2.07,False,ActiveAero,10,18.3,False,-0.5,7,4.318,0.4,Q1,red_bull_ring,Mercedes
+LEC,Ferrari,67.543,2026,33.5,25.5,943.1,False,52.7,75.0,190.0,5.29,4.93,False,ActiveAero,10,19.2,False,-0.36,8,4.318,0.39,Q1,red_bull_ring,Ferrari
+HAM,Ferrari,67.29,2026,33.3,24.7,943.0,False,52.6,115.0,190.0,4.57,4.93,False,ActiveAero,10,19.3,False,0.36,19,4.318,0.61,Q1,red_bull_ring,Ferrari
+ANT,Mercedes,67.083,2026,33.6,24.7,943.1,False,52.7,156.0,262.0,1.57,2.07,False,ActiveAero,10,19.1,False,0.5,1,4.318,0.6,Q1,red_bull_ring,Mercedes
+VER,Red Bull Racing,67.407,2026,33.4,25.4,943.0,False,52.1,55.0,92.0,5.67,7.23,False,ActiveAero,10,18.7,False,1.56,11,4.318,0.6,Q1,red_bull_ring,Ford RBPT
+NOR,McLaren,67.259,2026,33.6,24.6,943.2,False,52.2,73.0,143.0,5.14,5.29,False,ActiveAero,10,18.6,False,0.15,8,4.318,0.51,Q1,red_bull_ring,Mercedes
+PIA,McLaren,67.487,2026,33.5,24.6,943.2,False,52.2,70.0,143.0,5.43,5.29,False,ActiveAero,10,18.7,False,-0.14,3,4.318,0.49,Q1,red_bull_ring,Mercedes
+HAD,Red Bull Racing,67.408,2026,33.3,24.7,943.1,False,52.4,37.0,92.0,8.57,7.23,False,ActiveAero,10,19.1,False,-1.34,1,4.318,0.4,Q1,red_bull_ring,Ford RBPT
+HAD,Red Bull Racing,67.709,2026,33.3,26.4,943.0,False,51.4,37.0,92.0,8.57,7.23,False,ActiveAero,10,18.1,False,-1.34,1,4.318,0.4,Q1,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,68.104,2026,33.4,26.5,942.9,False,51.8,30.0,45.0,11.0,11.57,False,ActiveAero,10,18.4,False,0.57,2,4.318,0.67,Q1,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,67.385,2026,32.9,26.2,942.9,False,51.7,30.0,45.0,11.0,11.57,False,ActiveAero,10,18.8,False,0.57,2,4.318,0.67,Q1,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,68.312,2026,33.4,24.5,942.9,False,52.1,15.0,45.0,12.14,11.57,False,ActiveAero,10,18.7,False,-0.57,0,4.318,0.33,Q1,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,67.549,2026,33.6,25.8,942.9,False,52.1,15.0,45.0,12.14,11.57,False,ActiveAero,10,18.5,False,-0.57,0,4.318,0.33,Q1,red_bull_ring,Ford RBPT
+GAS,Alpine,68.038,2026,33.4,25.3,942.9,False,51.0,32.0,48.0,10.57,11.57,False,ActiveAero,10,17.6,False,1.0,9,4.318,0.67,Q1,red_bull_ring,Mercedes
+GAS,Alpine,68.139,2026,33.5,25.3,942.8,False,51.2,32.0,48.0,10.57,11.57,False,ActiveAero,10,17.7,False,1.0,9,4.318,0.67,Q1,red_bull_ring,Mercedes
+BOR,Audi,68.363,2026,33.5,24.9,942.8,False,50.9,2.0,2.0,13.86,12.5,False,ActiveAero,10,17.4,False,-1.36,1,4.318,1.0,Q1,red_bull_ring,Audi
+BOR,Audi,68.035,2026,33.4,25.1,942.8,False,50.8,2.0,2.0,13.86,12.5,False,ActiveAero,10,17.4,False,-1.36,1,4.318,1.0,Q1,red_bull_ring,Audi
+BEA,Haas F1 Team,68.061,2026,33.2,24.7,942.8,False,50.8,18.0,21.0,14.57,14.64,False,ActiveAero,10,17.6,False,0.07,1,4.318,0.86,Q1,red_bull_ring,Ferrari
+BEA,Haas F1 Team,68.138,2026,33.1,25.6,943.1,False,51.9,18.0,21.0,14.57,14.64,False,ActiveAero,10,18.8,False,0.07,1,4.318,0.86,Q1,red_bull_ring,Ferrari
+HUL,Audi,68.509,2026,33.3,25.5,943.1,False,52.7,0.0,2.0,11.14,12.5,False,ActiveAero,10,19.4,False,1.36,15,4.318,0.0,Q1,red_bull_ring,Audi
+HUL,Audi,68.564,2026,33.5,25.5,943.1,False,52.7,0.0,2.0,11.14,12.5,False,ActiveAero,10,19.2,False,1.36,15,4.318,0.0,Q1,red_bull_ring,Audi
+HUL,Audi,68.066,2026,33.3,24.7,943.0,False,52.6,0.0,2.0,11.14,12.5,False,ActiveAero,10,19.3,False,1.36,15,4.318,0.0,Q1,red_bull_ring,Audi
+OCO,Haas F1 Team,69.083,2026,33.3,26.7,943.0,False,51.5,3.0,21.0,14.71,14.64,False,ActiveAero,10,18.2,False,-0.07,10,4.318,0.14,Q1,red_bull_ring,Ferrari
+OCO,Haas F1 Team,69.228,2026,33.3,26.4,943.0,False,51.4,3.0,21.0,14.71,14.64,False,ActiveAero,10,18.1,False,-0.07,10,4.318,0.14,Q1,red_bull_ring,Ferrari
+OCO,Haas F1 Team,68.231,2026,33.3,26.5,943.0,False,51.5,3.0,21.0,14.71,14.64,False,ActiveAero,10,18.2,False,-0.07,10,4.318,0.14,Q1,red_bull_ring,Ferrari
+COL,Alpine,68.343,2026,33.4,24.5,942.9,False,52.1,16.0,48.0,12.57,11.57,False,ActiveAero,10,18.7,False,-1.0,2,4.318,0.33,Q1,red_bull_ring,Mercedes
+COL,Alpine,67.894,2026,33.6,25.8,942.9,False,52.1,16.0,48.0,12.57,11.57,False,ActiveAero,10,18.5,False,-1.0,2,4.318,0.33,Q1,red_bull_ring,Mercedes
+SAI,Williams,69.214,2026,33.5,24.9,943.0,False,51.6,6.0,11.0,14.83,15.46,False,ActiveAero,10,18.1,False,0.63,11,4.318,0.55,Q1,red_bull_ring,Mercedes
+SAI,Williams,68.737,2026,33.3,25.5,942.8,False,51.5,6.0,11.0,14.83,15.46,False,ActiveAero,10,18.2,False,0.63,11,4.318,0.55,Q1,red_bull_ring,Mercedes
+SAI,Williams,68.252,2026,33.4,25.3,942.9,False,51.0,6.0,11.0,14.83,15.46,False,ActiveAero,10,17.6,False,0.63,11,4.318,0.55,Q1,red_bull_ring,Mercedes
+ALB,Williams,69.155,2026,33.5,24.9,942.8,False,50.9,5.0,11.0,16.0,15.46,False,ActiveAero,10,17.4,False,-0.54,6,4.318,0.45,Q1,red_bull_ring,Mercedes
+ALB,Williams,68.509,2026,33.4,25.1,942.8,False,50.8,5.0,11.0,16.0,15.46,False,ActiveAero,10,17.4,False,-0.54,6,4.318,0.45,Q1,red_bull_ring,Mercedes
+ALB,Williams,68.863,2026,33.4,24.7,942.8,False,50.8,5.0,11.0,16.0,15.46,False,ActiveAero,10,17.4,False,-0.54,6,4.318,0.45,Q1,red_bull_ring,Mercedes
+PER,Cadillac,69.512,2026,33.4,25.5,943.1,False,51.7,0.0,0.0,19.43,19.71,False,ActiveAero,10,18.3,False,0.28,13,4.318,0.5,Q1,red_bull_ring,Ferrari
+PER,Cadillac,68.945,2026,33.3,25.5,943.1,False,52.7,0.0,0.0,19.43,19.71,False,ActiveAero,10,19.4,False,0.28,13,4.318,0.5,Q1,red_bull_ring,Ferrari
+PER,Cadillac,69.104,2026,33.5,25.5,943.1,False,52.7,0.0,0.0,19.43,19.71,False,ActiveAero,10,19.2,False,0.28,13,4.318,0.5,Q1,red_bull_ring,Ferrari
+BOT,Cadillac,70.228,2026,33.3,24.7,943.0,False,52.6,0.0,0.0,20.0,19.71,False,ActiveAero,10,19.3,False,-0.29,12,4.318,0.5,Q1,red_bull_ring,Ferrari
+BOT,Cadillac,69.03,2026,33.3,26.7,943.0,False,51.5,0.0,0.0,20.0,19.71,False,ActiveAero,10,18.2,False,-0.29,12,4.318,0.5,Q1,red_bull_ring,Ferrari
+BOT,Cadillac,69.188,2026,33.3,26.4,943.0,False,51.4,0.0,0.0,20.0,19.71,False,ActiveAero,10,18.1,False,-0.29,12,4.318,0.5,Q1,red_bull_ring,Ferrari
+ALO,Aston Martin,70.673,2026,33.4,26.5,942.9,False,51.8,1.0,1.0,19.43,20.08,False,ActiveAero,10,18.4,False,0.65,22,4.318,1.0,Q1,red_bull_ring,Honda
+ALO,Aston Martin,70.284,2026,33.4,25.3,942.9,False,52.1,1.0,1.0,19.43,20.08,False,ActiveAero,10,18.7,False,0.65,22,4.318,1.0,Q1,red_bull_ring,Honda
+ALO,Aston Martin,69.942,2026,33.6,25.8,942.9,False,52.1,1.0,1.0,19.43,20.08,False,ActiveAero,10,18.5,False,0.65,22,4.318,1.0,Q1,red_bull_ring,Honda
+STR,Aston Martin,70.363,2026,33.5,24.9,943.0,False,51.6,0.0,1.0,20.83,20.08,False,ActiveAero,10,18.1,False,-0.75,9,4.318,0.0,Q1,red_bull_ring,Honda
+RUS,Mercedes,66.979,2026,33.3,25.5,942.8,False,51.5,106.0,262.0,2.57,2.07,False,ActiveAero,10,18.2,False,-0.5,7,4.318,0.4,Q2,red_bull_ring,Mercedes
+LEC,Ferrari,67.03,2026,33.5,25.3,942.8,False,51.2,75.0,190.0,5.29,4.93,False,ActiveAero,10,17.7,False,-0.36,8,4.318,0.39,Q2,red_bull_ring,Ferrari
+LEC,Ferrari,67.303,2026,33.3,24.7,942.9,False,51.1,75.0,190.0,5.29,4.93,False,ActiveAero,10,17.8,False,-0.36,8,4.318,0.39,Q2,red_bull_ring,Ferrari
+HAM,Ferrari,67.039,2026,33.4,24.7,942.8,False,50.8,115.0,190.0,4.57,4.93,False,ActiveAero,10,17.4,False,0.36,19,4.318,0.61,Q2,red_bull_ring,Ferrari
+HAM,Ferrari,66.994,2026,33.3,25.5,943.1,False,52.7,115.0,190.0,4.57,4.93,False,ActiveAero,10,19.4,False,0.36,19,4.318,0.61,Q2,red_bull_ring,Ferrari
+ANT,Mercedes,66.763,2026,33.7,24.7,943.0,False,52.6,156.0,262.0,1.57,2.07,False,ActiveAero,10,18.9,False,0.5,1,4.318,0.6,Q2,red_bull_ring,Mercedes
+ANT,Mercedes,66.965,2026,33.3,24.7,943.0,False,52.6,156.0,262.0,1.57,2.07,False,ActiveAero,10,19.3,False,0.5,1,4.318,0.6,Q2,red_bull_ring,Mercedes
+VER,Red Bull Racing,67.183,2026,33.5,24.7,943.1,False,52.7,55.0,92.0,5.67,7.23,False,ActiveAero,10,19.2,False,1.56,11,4.318,0.6,Q2,red_bull_ring,Ford RBPT
+NOR,McLaren,67.321,2026,33.6,24.6,943.2,False,52.2,73.0,143.0,5.14,5.29,False,ActiveAero,10,18.6,False,0.15,8,4.318,0.51,Q2,red_bull_ring,Mercedes
+NOR,McLaren,66.897,2026,33.5,24.6,943.2,False,52.2,73.0,143.0,5.14,5.29,False,ActiveAero,10,18.7,False,0.15,8,4.318,0.51,Q2,red_bull_ring,Mercedes
+PIA,McLaren,66.89,2026,33.3,26.4,943.0,False,51.4,70.0,143.0,5.43,5.29,False,ActiveAero,10,18.1,False,-0.14,3,4.318,0.49,Q2,red_bull_ring,Mercedes
+HAD,Red Bull Racing,67.315,2026,33.3,26.5,943.0,False,51.5,37.0,92.0,8.57,7.23,False,ActiveAero,10,18.2,False,-1.34,1,4.318,0.4,Q2,red_bull_ring,Ford RBPT
+HAD,Red Bull Racing,67.086,2026,33.2,26.5,942.9,False,51.8,37.0,92.0,8.57,7.23,False,ActiveAero,10,18.6,False,-1.34,1,4.318,0.4,Q2,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,67.622,2026,33.6,25.8,942.9,False,52.1,30.0,45.0,11.0,11.57,False,ActiveAero,10,18.5,False,0.57,2,4.318,0.67,Q2,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,67.136,2026,33.5,24.9,943.0,False,51.6,30.0,45.0,11.0,11.57,False,ActiveAero,10,18.1,False,0.57,2,4.318,0.67,Q2,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,67.709,2026,33.4,26.1,942.8,False,50.7,15.0,45.0,12.14,11.57,False,ActiveAero,10,17.3,False,-0.57,0,4.318,0.33,Q2,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,67.155,2026,33.3,25.5,942.8,False,51.5,15.0,45.0,12.14,11.57,False,ActiveAero,10,18.2,False,-0.57,0,4.318,0.33,Q2,red_bull_ring,Ford RBPT
+GAS,Alpine,67.562,2026,33.5,25.3,942.8,False,51.2,32.0,48.0,10.57,11.57,False,ActiveAero,10,17.7,False,1.0,9,4.318,0.67,Q2,red_bull_ring,Mercedes
+GAS,Alpine,67.223,2026,33.5,24.9,942.8,False,50.9,32.0,48.0,10.57,11.57,False,ActiveAero,10,17.4,False,1.0,9,4.318,0.67,Q2,red_bull_ring,Mercedes
+BOR,Audi,67.982,2026,33.4,25.1,942.8,False,50.8,2.0,2.0,13.86,12.5,False,ActiveAero,10,17.4,False,-1.36,1,4.318,1.0,Q2,red_bull_ring,Audi
+BOR,Audi,67.293,2026,33.4,24.7,942.8,False,50.8,2.0,2.0,13.86,12.5,False,ActiveAero,10,17.4,False,-1.36,1,4.318,1.0,Q2,red_bull_ring,Audi
+BEA,Haas F1 Team,68.376,2026,33.1,25.6,943.1,False,51.9,18.0,21.0,14.57,14.64,False,ActiveAero,10,18.8,False,0.07,1,4.318,0.86,Q2,red_bull_ring,Ferrari
+BEA,Haas F1 Team,67.523,2026,33.4,25.5,943.1,False,51.7,18.0,21.0,14.57,14.64,False,ActiveAero,10,18.3,False,0.07,1,4.318,0.86,Q2,red_bull_ring,Ferrari
+HUL,Audi,68.384,2026,33.5,25.5,943.1,False,52.7,0.0,2.0,11.14,12.5,False,ActiveAero,10,19.2,False,1.36,15,4.318,0.0,Q2,red_bull_ring,Audi
+HUL,Audi,67.611,2026,33.3,24.7,943.0,False,52.6,0.0,2.0,11.14,12.5,False,ActiveAero,10,19.3,False,1.36,15,4.318,0.0,Q2,red_bull_ring,Audi
+OCO,Haas F1 Team,68.724,2026,33.3,26.5,943.0,False,51.5,3.0,21.0,14.71,14.64,False,ActiveAero,10,18.2,False,-0.07,10,4.318,0.14,Q2,red_bull_ring,Ferrari
+OCO,Haas F1 Team,67.817,2026,33.3,26.7,943.0,False,51.5,3.0,21.0,14.71,14.64,False,ActiveAero,10,18.2,False,-0.07,10,4.318,0.14,Q2,red_bull_ring,Ferrari
+COL,Alpine,68.171,2026,33.3,26.5,943.0,False,51.5,16.0,48.0,12.57,11.57,False,ActiveAero,10,18.2,False,-1.0,2,4.318,0.33,Q2,red_bull_ring,Mercedes
+RUS,Mercedes,66.457,2026,33.3,25.5,942.8,False,51.5,106.0,262.0,2.57,2.07,False,ActiveAero,10,18.2,False,-0.5,7,4.318,0.4,Q3,red_bull_ring,Mercedes
+LEC,Ferrari,66.756,2026,33.5,25.3,942.8,False,51.2,75.0,190.0,5.29,4.93,False,ActiveAero,10,17.7,False,-0.36,8,4.318,0.39,Q3,red_bull_ring,Ferrari
+LEC,Ferrari,66.349,2026,33.1,25.6,943.1,False,51.9,75.0,190.0,5.29,4.93,False,ActiveAero,10,18.8,False,-0.36,8,4.318,0.39,Q3,red_bull_ring,Ferrari
+HAM,Ferrari,66.408,2026,33.3,25.5,943.1,False,52.7,115.0,190.0,4.57,4.93,False,ActiveAero,10,19.4,False,0.36,19,4.318,0.61,Q3,red_bull_ring,Ferrari
+ANT,Mercedes,66.414,2026,33.5,25.5,943.1,False,52.7,156.0,262.0,1.57,2.07,False,ActiveAero,10,19.2,False,0.5,1,4.318,0.6,Q3,red_bull_ring,Mercedes
+VER,Red Bull Racing,66.475,2026,33.6,26.0,943.0,False,51.4,55.0,92.0,5.67,7.23,False,ActiveAero,10,17.8,False,1.56,11,4.318,0.6,Q3,red_bull_ring,Ford RBPT
+NOR,McLaren,66.9,2026,33.3,26.5,943.0,False,51.5,73.0,143.0,5.14,5.29,False,ActiveAero,10,18.2,False,0.15,8,4.318,0.51,Q3,red_bull_ring,Mercedes
+NOR,McLaren,66.502,2026,33.3,26.7,943.0,False,51.5,73.0,143.0,5.14,5.29,False,ActiveAero,10,18.2,False,0.15,8,4.318,0.51,Q3,red_bull_ring,Mercedes
+PIA,McLaren,66.685,2026,32.9,26.2,942.9,False,51.7,70.0,143.0,5.43,5.29,False,ActiveAero,10,18.8,False,-0.14,3,4.318,0.49,Q3,red_bull_ring,Mercedes
+PIA,McLaren,66.511,2026,33.4,24.5,942.9,False,52.1,70.0,143.0,5.43,5.29,False,ActiveAero,10,18.7,False,-0.14,3,4.318,0.49,Q3,red_bull_ring,Mercedes
+HAD,Red Bull Racing,67.321,2026,33.4,25.3,942.9,False,52.1,37.0,92.0,8.57,7.23,False,ActiveAero,10,18.7,False,-1.34,1,4.318,0.4,Q3,red_bull_ring,Ford RBPT
+HAD,Red Bull Racing,66.632,2026,33.4,26.1,942.8,False,50.7,37.0,92.0,8.57,7.23,False,ActiveAero,10,17.3,False,-1.34,1,4.318,0.4,Q3,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,67.542,2026,33.3,25.5,942.8,False,51.5,30.0,45.0,11.0,11.57,False,ActiveAero,10,18.2,False,0.57,2,4.318,0.67,Q3,red_bull_ring,Ford RBPT
+LAW,Racing Bulls,66.955,2026,33.5,25.3,942.8,False,51.2,30.0,45.0,11.0,11.57,False,ActiveAero,10,17.7,False,0.57,2,4.318,0.67,Q3,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,67.672,2026,33.4,25.1,942.8,False,50.8,15.0,45.0,12.14,11.57,False,ActiveAero,10,17.4,False,-0.57,0,4.318,0.33,Q3,red_bull_ring,Ford RBPT
+LIN,Racing Bulls,67.007,2026,33.4,24.7,942.8,False,50.8,15.0,45.0,12.14,11.57,False,ActiveAero,10,17.4,False,-0.57,0,4.318,0.33,Q3,red_bull_ring,Ford RBPT
+ANT,Mercedes,105.142,2026,21.2,55.9,968.4,False,37.7,179.0,333.0,1.78,2.17,False,ActiveAero,19,16.5,False,0.39,1,7.004,0.54,Q2,spa,Mercedes
+VER,Red Bull Racing,105.589,2026,21.1,54.3,968.4,False,36.5,76.0,131.0,5.75,7.0,False,ActiveAero,19,15.4,False,1.25,11,7.004,0.58,Q2,spa,Ford RBPT
+NOR,McLaren,105.454,2026,20.9,56.3,968.6,False,34.6,97.0,181.0,5.33,5.61,False,ActiveAero,19,13.7,False,0.28,8,7.004,0.54,Q2,spa,Mercedes
+RUS,Mercedes,105.689,2026,20.8,57.6,968.4,False,35.0,154.0,333.0,2.56,2.17,False,ActiveAero,19,14.2,False,-0.39,7,7.004,0.46,Q2,spa,Mercedes
+LEC,Ferrari,105.397,2026,20.5,56.8,968.5,False,34.7,108.0,255.0,4.56,4.39,False,ActiveAero,19,14.2,False,-0.17,8,7.004,0.42,Q2,spa,Ferrari
+LEC,Ferrari,105.691,2026,20.5,56.5,968.4,False,33.9,108.0,255.0,4.56,4.39,False,ActiveAero,19,13.4,False,-0.17,8,7.004,0.42,Q2,spa,Ferrari
+HAM,Ferrari,105.543,2026,20.3,57.0,968.4,False,33.7,147.0,255.0,4.22,4.39,False,ActiveAero,19,13.4,False,0.17,19,7.004,0.58,Q2,spa,Ferrari
+PIA,McLaren,105.671,2026,21.0,55.0,968.3,False,35.1,84.0,181.0,5.89,5.61,False,ActiveAero,19,14.1,False,-0.28,3,7.004,0.46,Q2,spa,Mercedes
+LIN,Racing Bulls,105.629,2026,21.1,55.8,968.4,False,34.8,22.0,63.0,11.56,11.11,False,ActiveAero,19,13.7,False,-0.45,0,7.004,0.35,Q2,spa,Ford RBPT
+ANT,Mercedes,104.84,2026,21.1,55.8,968.4,False,34.8,179.0,333.0,1.78,2.17,False,ActiveAero,19,13.7,False,0.39,1,7.004,0.54,Q3,spa,Mercedes
+ANT,Mercedes,104.361,2026,20.4,56.3,968.5,False,35.3,179.0,333.0,1.78,2.17,False,ActiveAero,19,14.9,False,0.39,1,7.004,0.54,Q3,spa,Mercedes
+VER,Red Bull Racing,104.984,2026,20.7,55.8,968.5,False,35.0,76.0,131.0,5.75,7.0,False,ActiveAero,19,14.3,False,1.25,11,7.004,0.58,Q3,spa,Ford RBPT
+VER,Red Bull Racing,104.678,2026,21.0,55.5,968.4,False,34.8,76.0,131.0,5.75,7.0,False,ActiveAero,19,13.8,False,1.25,11,7.004,0.58,Q3,spa,Ford RBPT
+NOR,McLaren,104.801,2026,21.7,53.5,968.3,False,37.5,97.0,181.0,5.33,5.61,False,ActiveAero,19,15.8,False,0.28,8,7.004,0.54,Q3,spa,Mercedes
+RUS,Mercedes,105.156,2026,21.8,54.5,968.3,False,37.8,154.0,333.0,2.56,2.17,False,ActiveAero,19,16.0,False,-0.39,7,7.004,0.46,Q3,spa,Mercedes
+RUS,Mercedes,104.869,2026,21.7,54.8,968.3,False,37.8,154.0,333.0,2.56,2.17,False,ActiveAero,19,16.1,False,-0.39,7,7.004,0.46,Q3,spa,Mercedes
+LEC,Ferrari,104.893,2026,21.7,54.8,968.3,False,38.0,108.0,255.0,4.56,4.39,False,ActiveAero,19,16.3,False,-0.17,8,7.004,0.42,Q3,spa,Ferrari
+LEC,Ferrari,104.921,2026,21.3,54.2,968.4,False,37.0,108.0,255.0,4.56,4.39,False,ActiveAero,19,15.7,False,-0.17,8,7.004,0.42,Q3,spa,Ferrari
+HAM,Ferrari,105.062,2026,21.2,55.9,968.4,False,37.7,147.0,255.0,4.22,4.39,False,ActiveAero,19,16.5,False,0.17,19,7.004,0.58,Q3,spa,Ferrari
+HAM,Ferrari,104.895,2026,21.3,54.5,968.3,False,36.6,147.0,255.0,4.22,4.39,False,ActiveAero,19,15.3,False,0.17,19,7.004,0.58,Q3,spa,Ferrari
+PIA,McLaren,105.462,2026,20.7,57.3,968.5,False,34.5,84.0,181.0,5.89,5.61,False,ActiveAero,19,13.8,False,-0.28,3,7.004,0.46,Q3,spa,Mercedes
+PIA,McLaren,105.016,2026,20.8,57.6,968.4,False,35.0,84.0,181.0,5.89,5.61,False,ActiveAero,19,14.2,False,-0.28,3,7.004,0.46,Q3,spa,Mercedes
+LIN,Racing Bulls,105.143,2026,20.8,55.0,968.3,False,35.1,22.0,63.0,11.56,11.11,False,ActiveAero,19,14.3,False,-0.45,0,7.004,0.35,Q3,spa,Ford RBPT
+BOR,Audi,105.628,2026,20.4,56.3,968.5,False,35.3,6.0,6.0,13.33,12.5,False,ActiveAero,19,14.9,False,-0.83,1,7.004,1.0,Q3,spa,Audi
+NOR,McLaren,78.277,2026,26.7,22.3,984.3,False,49.2,103.0,197.0,5.1,5.55,False,ActiveAero,14,22.5,False,0.45,8,4.381,0.52,Q1,hungaroring,Mercedes
+HAM,Ferrari,78.73,2026,26.9,22.3,984.2,False,48.3,159.0,285.0,4.4,4.5,False,ActiveAero,14,21.4,False,0.1,19,4.381,0.56,Q1,hungaroring,Ferrari
+LEC,Ferrari,79.344,2026,27.0,22.7,984.3,False,48.7,126.0,285.0,4.6,4.5,False,ActiveAero,14,21.7,False,-0.1,8,4.381,0.44,Q1,hungaroring,Ferrari
+LEC,Ferrari,78.984,2026,27.2,22.4,984.3,False,48.2,126.0,285.0,4.6,4.5,False,ActiveAero,14,21.0,False,-0.1,8,4.381,0.44,Q1,hungaroring,Ferrari
+ANT,Mercedes,78.726,2026,26.9,23.3,984.1,False,46.5,204.0,358.0,1.7,2.2,False,ActiveAero,14,19.6,False,0.5,1,4.381,0.57,Q1,hungaroring,Mercedes
+PIA,McLaren,78.891,2026,27.0,23.0,984.2,False,47.4,94.0,197.0,6.0,5.55,False,ActiveAero,14,20.4,False,-0.45,3,4.381,0.48,Q1,hungaroring,Mercedes
+VER,Red Bull Racing,78.656,2026,26.8,23.9,984.2,False,46.5,91.0,154.0,5.33,6.89,False,ActiveAero,14,19.7,False,1.56,11,4.381,0.59,Q1,hungaroring,Ford RBPT
+VER,Red Bull Racing,78.682,2026,26.8,23.3,984.1,False,45.6,91.0,154.0,5.33,6.89,False,ActiveAero,14,18.8,False,1.56,11,4.381,0.59,Q1,hungaroring,Ford RBPT
+RUS,Mercedes,78.922,2026,26.8,23.7,984.1,False,45.4,154.0,358.0,2.7,2.2,False,ActiveAero,14,18.6,False,-0.5,7,4.381,0.43,Q1,hungaroring,Mercedes
+RUS,Mercedes,78.856,2026,26.6,23.4,984.0,False,43.4,154.0,358.0,2.7,2.2,False,ActiveAero,14,16.8,False,-0.5,7,4.381,0.43,Q1,hungaroring,Mercedes
+HAD,Red Bull Racing,78.754,2026,26.6,23.8,984.1,False,42.1,63.0,154.0,8.3,6.89,False,ActiveAero,14,15.5,False,-1.41,1,4.381,0.41,Q1,hungaroring,Ford RBPT
+LIN,Racing Bulls,79.393,2026,26.7,23.6,984.1,False,42.9,24.0,65.0,11.2,10.95,False,ActiveAero,14,16.2,False,-0.25,0,4.381,0.37,Q1,hungaroring,Ford RBPT
+LIN,Racing Bulls,79.233,2026,26.4,24.0,984.0,False,42.4,24.0,65.0,11.2,10.95,False,ActiveAero,14,16.0,False,-0.25,0,4.381,0.37,Q1,hungaroring,Ford RBPT
+HUL,Audi,79.47,2026,26.6,23.2,984.1,False,42.6,0.0,10.0,11.9,12.4,False,ActiveAero,14,16.0,False,0.5,15,4.381,0.0,Q1,hungaroring,Audi
+HUL,Audi,78.796,2026,26.5,23.1,984.3,False,48.4,0.0,10.0,11.9,12.4,False,ActiveAero,14,21.9,False,0.5,15,4.381,0.0,Q1,hungaroring,Audi
+LAW,Racing Bulls,79.174,2026,26.6,22.5,984.2,False,49.0,41.0,65.0,10.7,10.95,False,ActiveAero,14,22.4,False,0.25,2,4.381,0.63,Q1,hungaroring,Ford RBPT
+LAW,Racing Bulls,79.161,2026,26.7,22.3,984.3,False,49.2,41.0,65.0,10.7,10.95,False,ActiveAero,14,22.5,False,0.25,2,4.381,0.63,Q1,hungaroring,Ford RBPT
+GAS,Alpine,80.529,2026,26.9,22.3,984.2,False,48.3,33.0,52.0,10.9,12.25,False,ActiveAero,14,21.4,False,1.35,9,4.381,0.63,Q1,hungaroring,Mercedes
+GAS,Alpine,79.741,2026,27.0,23.0,984.1,False,47.2,33.0,52.0,10.9,12.25,False,ActiveAero,14,20.2,False,1.35,9,4.381,0.63,Q1,hungaroring,Mercedes
+COL,Alpine,80.261,2026,27.0,23.0,984.2,False,47.4,19.0,52.0,13.6,12.25,False,ActiveAero,14,20.4,False,-1.35,2,4.381,0.37,Q1,hungaroring,Mercedes
+COL,Alpine,79.771,2026,26.9,22.6,984.1,False,46.8,19.0,52.0,13.6,12.25,False,ActiveAero,14,19.9,False,-1.35,2,4.381,0.37,Q1,hungaroring,Mercedes
+BOR,Audi,79.069,2026,26.8,23.3,984.1,False,44.1,10.0,10.0,12.9,12.4,False,ActiveAero,14,17.3,False,-0.5,1,4.381,1.0,Q1,hungaroring,Audi
+OCO,Haas F1 Team,80.405,2026,26.9,23.3,984.2,False,44.7,3.0,21.0,15.3,14.9,False,ActiveAero,14,17.8,False,-0.4,10,4.381,0.14,Q1,hungaroring,Ferrari
+OCO,Haas F1 Team,80.01,2026,26.6,23.8,984.1,False,42.1,3.0,21.0,15.3,14.9,False,ActiveAero,14,15.5,False,-0.4,10,4.381,0.14,Q1,hungaroring,Ferrari
+ALO,Aston Martin,80.665,2026,26.6,23.8,984.2,False,42.4,1.0,1.0,20.0,20.53,False,ActiveAero,14,15.8,False,0.53,22,4.381,1.0,Q1,hungaroring,Honda
+ALO,Aston Martin,80.245,2026,26.7,23.6,984.1,False,42.9,1.0,1.0,20.0,20.53,False,ActiveAero,14,16.2,False,0.53,22,4.381,1.0,Q1,hungaroring,Honda
+ALO,Aston Martin,80.126,2026,26.5,23.9,984.1,False,42.2,1.0,1.0,20.0,20.53,False,ActiveAero,14,15.7,False,0.53,22,4.381,1.0,Q1,hungaroring,Honda
+BEA,Haas F1 Team,80.762,2026,26.5,23.4,984.1,False,42.0,18.0,21.0,14.5,14.9,False,ActiveAero,14,15.5,False,0.4,1,4.381,0.86,Q1,hungaroring,Ferrari
+BEA,Haas F1 Team,80.233,2026,26.5,23.1,984.3,False,48.4,18.0,21.0,14.5,14.9,False,ActiveAero,14,21.9,False,0.4,1,4.381,0.86,Q1,hungaroring,Ferrari
+SAI,Williams,81.302,2026,26.6,22.5,984.2,False,49.0,6.0,11.0,15.11,15.74,False,ActiveAero,14,22.4,False,0.63,11,4.381,0.55,Q1,hungaroring,Mercedes
+SAI,Williams,80.621,2026,26.7,22.3,984.3,False,49.2,6.0,11.0,15.11,15.74,False,ActiveAero,14,22.5,False,0.63,11,4.381,0.55,Q1,hungaroring,Mercedes
+ALB,Williams,81.596,2026,26.9,22.3,984.2,False,48.3,5.0,11.0,16.3,15.74,False,ActiveAero,14,21.4,False,-0.56,6,4.381,0.45,Q1,hungaroring,Mercedes
+ALB,Williams,80.783,2026,26.9,22.3,984.3,False,48.7,5.0,11.0,16.3,15.74,False,ActiveAero,14,21.8,False,-0.56,6,4.381,0.45,Q1,hungaroring,Mercedes
+ALB,Williams,80.658,2026,27.0,22.7,984.3,False,48.7,5.0,11.0,16.3,15.74,False,ActiveAero,14,21.7,False,-0.56,6,4.381,0.45,Q1,hungaroring,Mercedes
+STR,Aston Martin,80.847,2026,27.1,23.0,984.2,False,47.6,0.0,1.0,21.11,20.53,False,ActiveAero,14,20.5,False,-0.58,9,4.381,0.0,Q1,hungaroring,Honda
+STR,Aston Martin,80.659,2026,27.0,23.4,984.1,False,48.0,0.0,1.0,21.11,20.53,False,ActiveAero,14,21.0,False,-0.58,9,4.381,0.0,Q1,hungaroring,Honda
+BOT,Cadillac,81.723,2026,27.0,22.5,984.3,False,47.7,0.0,0.0,19.7,19.6,False,ActiveAero,14,20.7,False,-0.1,12,4.381,0.5,Q1,hungaroring,Ferrari
+BOT,Cadillac,81.304,2026,26.9,23.3,984.1,False,46.5,0.0,0.0,19.7,19.6,False,ActiveAero,14,19.6,False,-0.1,12,4.381,0.5,Q1,hungaroring,Ferrari
+BOT,Cadillac,80.886,2026,27.0,23.0,984.1,False,47.2,0.0,0.0,19.7,19.6,False,ActiveAero,14,20.2,False,-0.1,12,4.381,0.5,Q1,hungaroring,Ferrari
+PER,Cadillac,81.855,2026,27.0,23.0,984.2,False,47.4,0.0,0.0,19.5,19.6,False,ActiveAero,14,20.4,False,0.1,13,4.381,0.5,Q1,hungaroring,Ferrari
+PER,Cadillac,81.667,2026,26.8,23.9,984.2,False,46.5,0.0,0.0,19.5,19.6,False,ActiveAero,14,19.7,False,0.1,13,4.381,0.5,Q1,hungaroring,Ferrari
+PER,Cadillac,81.322,2026,26.8,23.3,984.1,False,44.1,0.0,0.0,19.5,19.6,False,ActiveAero,14,17.3,False,0.1,13,4.381,0.5,Q1,hungaroring,Ferrari
+NOR,McLaren,77.456,2026,26.6,23.8,984.1,False,42.1,103.0,197.0,5.1,5.55,False,ActiveAero,14,15.5,False,0.45,8,4.381,0.52,Q2,hungaroring,Mercedes
+HAM,Ferrari,77.931,2026,26.6,23.8,984.2,False,42.4,159.0,285.0,4.4,4.5,False,ActiveAero,14,15.8,False,0.1,19,4.381,0.56,Q2,hungaroring,Ferrari
+HAM,Ferrari,77.803,2026,26.7,23.7,984.1,False,42.2,159.0,285.0,4.4,4.5,False,ActiveAero,14,15.5,False,0.1,19,4.381,0.56,Q2,hungaroring,Ferrari
+LEC,Ferrari,77.626,2026,26.5,23.4,984.1,False,42.0,126.0,285.0,4.6,4.5,False,ActiveAero,14,15.5,False,-0.1,8,4.381,0.44,Q2,hungaroring,Ferrari
+ANT,Mercedes,78.393,2026,26.8,22.2,984.3,False,48.1,204.0,358.0,1.7,2.2,False,ActiveAero,14,21.3,False,0.5,1,4.381,0.57,Q2,hungaroring,Mercedes
+PIA,McLaren,77.928,2026,26.9,22.3,984.3,False,48.7,94.0,197.0,6.0,5.55,False,ActiveAero,14,21.8,False,-0.45,3,4.381,0.48,Q2,hungaroring,Mercedes
+VER,Red Bull Racing,78.249,2026,27.0,22.7,984.3,False,48.7,91.0,154.0,5.33,6.89,False,ActiveAero,14,21.7,False,1.56,11,4.381,0.59,Q2,hungaroring,Ford RBPT
+VER,Red Bull Racing,78.429,2026,27.1,23.0,984.2,False,47.6,91.0,154.0,5.33,6.89,False,ActiveAero,14,20.5,False,1.56,11,4.381,0.59,Q2,hungaroring,Ford RBPT
+RUS,Mercedes,78.645,2026,27.0,23.0,984.3,False,47.2,154.0,358.0,2.7,2.2,False,ActiveAero,14,20.2,False,-0.5,7,4.381,0.43,Q2,hungaroring,Mercedes
+RUS,Mercedes,78.445,2026,27.0,22.5,984.3,False,47.7,154.0,358.0,2.7,2.2,False,ActiveAero,14,20.7,False,-0.5,7,4.381,0.43,Q2,hungaroring,Mercedes
+HAD,Red Bull Racing,77.872,2026,26.9,23.3,984.1,False,46.5,63.0,154.0,8.3,6.89,False,ActiveAero,14,19.6,False,-1.41,1,4.381,0.41,Q2,hungaroring,Ford RBPT
+LIN,Racing Bulls,78.36,2026,27.0,23.0,984.1,False,47.2,24.0,65.0,11.2,10.95,False,ActiveAero,14,20.2,False,-0.25,0,4.381,0.37,Q2,hungaroring,Ford RBPT
+HUL,Audi,78.639,2026,26.8,23.9,984.2,False,46.5,0.0,10.0,11.9,12.4,False,ActiveAero,14,19.7,False,0.5,15,4.381,0.0,Q2,hungaroring,Audi
+LAW,Racing Bulls,78.765,2026,26.8,23.7,984.1,False,45.4,41.0,65.0,10.7,10.95,False,ActiveAero,14,18.6,False,0.25,2,4.381,0.63,Q2,hungaroring,Ford RBPT
+GAS,Alpine,78.844,2026,26.6,23.8,984.2,False,42.4,33.0,52.0,10.9,12.25,False,ActiveAero,14,15.8,False,1.35,9,4.381,0.63,Q2,hungaroring,Mercedes
+COL,Alpine,79.027,2026,26.4,24.0,984.0,False,42.4,19.0,52.0,13.6,12.25,False,ActiveAero,14,16.0,False,-1.35,2,4.381,0.37,Q2,hungaroring,Mercedes
+BOR,Audi,79.105,2026,26.5,23.4,984.1,False,42.0,10.0,10.0,12.9,12.4,False,ActiveAero,14,15.5,False,-0.5,1,4.381,1.0,Q2,hungaroring,Audi
+OCO,Haas F1 Team,79.734,2026,26.8,22.2,984.3,False,48.1,3.0,21.0,15.3,14.9,False,ActiveAero,14,21.3,False,-0.4,10,4.381,0.14,Q2,hungaroring,Ferrari
+ALO,Aston Martin,80.696,2026,26.9,22.3,984.3,False,48.7,1.0,1.0,20.0,20.53,False,ActiveAero,14,21.8,False,0.53,22,4.381,1.0,Q2,hungaroring,Honda
+ALO,Aston Martin,79.808,2026,27.0,22.7,984.3,False,48.7,1.0,1.0,20.0,20.53,False,ActiveAero,14,21.7,False,0.53,22,4.381,1.0,Q2,hungaroring,Honda
+NOR,McLaren,77.32,2026,27.1,22.6,984.3,False,48.3,103.0,197.0,5.1,5.55,False,ActiveAero,14,21.2,False,0.45,8,4.381,0.52,Q3,hungaroring,Mercedes
+HAM,Ferrari,77.219,2026,27.0,23.0,984.1,False,47.2,159.0,285.0,4.4,4.5,False,ActiveAero,14,20.2,False,0.1,19,4.381,0.56,Q3,hungaroring,Ferrari
+HAM,Ferrari,78.906,2026,26.8,23.1,984.1,False,47.4,159.0,285.0,4.4,4.5,False,ActiveAero,14,20.6,False,0.1,19,4.381,0.56,Q3,hungaroring,Ferrari
+LEC,Ferrari,77.445,2026,26.9,23.9,984.2,False,47.6,126.0,285.0,4.6,4.5,False,ActiveAero,14,20.7,False,-0.1,8,4.381,0.44,Q3,hungaroring,Ferrari
+LEC,Ferrari,77.753,2026,26.8,23.3,984.1,False,45.6,126.0,285.0,4.6,4.5,False,ActiveAero,14,18.8,False,-0.1,8,4.381,0.44,Q3,hungaroring,Ferrari
+ANT,Mercedes,77.579,2026,26.8,23.3,984.1,False,44.1,204.0,358.0,1.7,2.2,False,ActiveAero,14,17.3,False,0.5,1,4.381,0.57,Q3,hungaroring,Mercedes
+PIA,McLaren,77.684,2026,26.6,23.8,984.1,False,42.1,94.0,197.0,6.0,5.55,False,ActiveAero,14,15.5,False,-0.45,3,4.381,0.48,Q3,hungaroring,Mercedes
+VER,Red Bull Racing,77.725,2026,26.7,23.6,984.1,False,42.9,91.0,154.0,5.33,6.89,False,ActiveAero,14,16.2,False,1.56,11,4.381,0.59,Q3,hungaroring,Ford RBPT
+RUS,Mercedes,77.76,2026,26.5,23.4,984.1,False,42.0,154.0,358.0,2.7,2.2,False,ActiveAero,14,15.5,False,-0.5,7,4.381,0.43,Q3,hungaroring,Mercedes
+HAD,Red Bull Racing,77.856,2026,26.8,22.2,984.3,False,48.1,63.0,154.0,8.3,6.89,False,ActiveAero,14,21.3,False,-1.41,1,4.381,0.41,Q3,hungaroring,Ford RBPT
+LIN,Racing Bulls,78.281,2026,27.0,22.7,984.3,False,48.7,24.0,65.0,11.2,10.95,False,ActiveAero,14,21.7,False,-0.25,0,4.381,0.37,Q3,hungaroring,Ford RBPT
+HUL,Audi,78.707,2026,27.0,23.0,984.3,False,47.2,0.0,10.0,11.9,12.4,False,ActiveAero,14,20.2,False,0.5,15,4.381,0.0,Q3,hungaroring,Audi
+GAS,Alpine,82.612,2026,34.1,34.7,994.7,False,55.3,35.0,54.0,11.0,12.29,False,ActiveAero,11,21.2,False,1.29,9,5.793,0.65,Q1,monza,Mercedes
+GAS,Alpine,82.615,2026,34.2,33.6,994.7,False,55.5,35.0,54.0,11.0,12.29,False,ActiveAero,11,21.3,False,1.29,9,5.793,0.65,Q1,monza,Mercedes
+RUS,Mercedes,82.779,2026,34.1,34.1,994.8,False,54.5,183.0,425.0,3.0,2.5,False,ActiveAero,11,20.4,False,-0.5,7,5.793,0.43,Q1,monza,Mercedes
+PIA,McLaren,82.924,2026,34.2,34.5,994.8,False,55.4,106.0,265.0,5.75,5.08,False,ActiveAero,11,21.2,False,-0.67,3,5.793,0.4,Q1,monza,Mercedes
+PIA,McLaren,82.987,2026,33.9,34.1,994.7,False,54.7,106.0,265.0,5.75,5.08,False,ActiveAero,11,20.8,False,-0.67,3,5.793,0.4,Q1,monza,Mercedes
+LEC,Ferrari,82.995,2026,33.9,34.6,994.8,False,54.5,155.0,338.0,4.58,4.42,False,ActiveAero,11,20.6,False,-0.16,8,5.793,0.46,Q1,monza,Ferrari
+LEC,Ferrari,82.902,2026,34.1,34.0,994.7,False,54.6,155.0,338.0,4.58,4.42,False,ActiveAero,11,20.5,False,-0.16,8,5.793,0.46,Q1,monza,Ferrari
+HAM,Ferrari,82.847,2026,33.9,34.9,994.6,False,53.3,183.0,338.0,4.25,4.42,False,ActiveAero,11,19.4,False,0.17,19,5.793,0.54,Q1,monza,Ferrari
+VER,Red Bull Racing,82.631,2026,33.9,35.0,994.5,False,52.9,112.0,189.0,5.55,6.96,False,ActiveAero,11,19.0,False,1.41,11,5.793,0.59,Q1,monza,Ford RBPT
+ANT,Mercedes,82.758,2026,33.9,34.8,994.7,False,52.8,242.0,425.0,2.0,2.5,False,ActiveAero,11,18.9,False,0.5,1,5.793,0.57,Q1,monza,Mercedes
+COL,Alpine,82.662,2026,33.9,35.3,994.5,False,52.3,19.0,54.0,13.58,12.29,False,ActiveAero,11,18.4,False,-1.29,2,5.793,0.35,Q1,monza,Mercedes
+COL,Alpine,82.81,2026,33.9,34.7,994.5,False,52.8,19.0,54.0,13.58,12.29,False,ActiveAero,11,18.9,False,-1.29,2,5.793,0.35,Q1,monza,Mercedes
+NOR,McLaren,83.004,2026,34.1,34.0,994.6,False,52.1,159.0,265.0,4.42,5.08,False,ActiveAero,11,18.0,False,0.66,8,5.793,0.6,Q1,monza,Mercedes
+NOR,McLaren,82.659,2026,33.8,35.2,994.5,False,53.3,159.0,265.0,4.42,5.08,False,ActiveAero,11,19.5,False,0.66,8,5.793,0.6,Q1,monza,Mercedes
+LIN,Racing Bulls,83.452,2026,33.8,35.2,994.5,False,52.4,25.0,70.0,10.92,10.88,False,ActiveAero,11,18.6,False,-0.04,0,5.793,0.36,Q1,monza,Ford RBPT
+LIN,Racing Bulls,82.727,2026,33.9,34.4,994.5,False,51.4,25.0,70.0,10.92,10.88,False,ActiveAero,11,17.5,False,-0.04,0,5.793,0.36,Q1,monza,Ford RBPT
+BOR,Audi,83.248,2026,34.1,33.9,994.5,False,51.8,10.0,16.0,12.67,12.25,False,ActiveAero,11,17.7,False,-0.42,1,5.793,0.62,Q1,monza,Audi
+BOR,Audi,82.946,2026,34.0,33.8,994.6,False,51.7,10.0,16.0,12.67,12.25,False,ActiveAero,11,17.7,False,-0.42,1,5.793,0.62,Q1,monza,Audi
+BEA,Haas F1 Team,83.877,2026,34.1,34.7,994.7,False,55.3,18.0,21.0,15.17,15.21,False,ActiveAero,11,21.2,False,0.04,1,5.793,0.86,Q1,monza,Ferrari
+BEA,Haas F1 Team,82.906,2026,34.2,33.6,994.7,False,55.5,18.0,21.0,15.17,15.21,False,ActiveAero,11,21.3,False,0.04,1,5.793,0.86,Q1,monza,Ferrari
+BEA,Haas F1 Team,83.555,2026,34.1,34.1,994.8,False,54.5,18.0,21.0,15.17,15.21,False,ActiveAero,11,20.4,False,0.04,1,5.793,0.86,Q1,monza,Ferrari
+HUL,Audi,84.007,2026,34.2,34.5,994.8,False,55.4,6.0,16.0,11.83,12.25,False,ActiveAero,11,21.2,False,0.42,15,5.793,0.38,Q1,monza,Audi
+HUL,Audi,83.44,2026,33.9,34.1,994.7,False,54.7,6.0,16.0,11.83,12.25,False,ActiveAero,11,20.8,False,0.42,15,5.793,0.38,Q1,monza,Audi
+LAW,Red Bull Racing,84.103,2026,33.9,34.6,994.8,False,54.5,51.0,189.0,10.5,6.96,False,ActiveAero,11,20.6,False,-3.54,2,5.793,0.27,Q1,monza,Ford RBPT
+LAW,Red Bull Racing,83.398,2026,33.9,34.9,994.6,False,53.3,51.0,189.0,10.5,6.96,False,ActiveAero,11,19.4,False,-3.54,2,5.793,0.27,Q1,monza,Ford RBPT
+LAW,Red Bull Racing,82.989,2026,33.9,35.0,994.5,False,52.9,51.0,189.0,10.5,6.96,False,ActiveAero,11,19.0,False,-3.54,2,5.793,0.27,Q1,monza,Ford RBPT
+SAI,Williams,83.736,2026,33.9,34.8,994.7,False,52.8,6.0,11.0,15.55,16.04,False,ActiveAero,11,18.9,False,0.49,11,5.793,0.55,Q1,monza,Mercedes
+SAI,Williams,83.616,2026,33.9,35.3,994.5,False,52.3,6.0,11.0,15.55,16.04,False,ActiveAero,11,18.4,False,0.49,11,5.793,0.55,Q1,monza,Mercedes
+SAI,Williams,84.039,2026,33.9,35.4,994.4,False,52.4,6.0,11.0,15.55,16.04,False,ActiveAero,11,18.5,False,0.49,11,5.793,0.55,Q1,monza,Mercedes
+OCO,Haas F1 Team,84.4,2026,34.1,34.0,994.6,False,52.1,3.0,21.0,15.25,15.21,False,ActiveAero,11,18.0,False,-0.04,10,5.793,0.14,Q1,monza,Ferrari
+OCO,Haas F1 Team,83.891,2026,33.8,35.2,994.5,False,53.3,3.0,21.0,15.25,15.21,False,ActiveAero,11,19.5,False,-0.04,10,5.793,0.14,Q1,monza,Ferrari
+OCO,Haas F1 Team,83.466,2026,33.8,35.2,994.5,False,52.4,3.0,21.0,15.25,15.21,False,ActiveAero,11,18.6,False,-0.04,10,5.793,0.14,Q1,monza,Ferrari
+TSU,Racing Bulls,83.755,2026,33.9,34.4,994.5,False,51.4,0.0,70.0,12.0,10.88,False,ActiveAero,11,17.5,False,-1.12,4,5.793,0.0,Q1,monza,Ford RBPT
+TSU,Racing Bulls,83.76,2026,34.0,34.6,994.6,False,51.9,0.0,70.0,12.0,10.88,False,ActiveAero,11,17.9,False,-1.12,4,5.793,0.0,Q1,monza,Ford RBPT
+ALB,Williams,84.356,2026,34.0,33.8,994.6,False,51.7,5.0,11.0,16.5,16.04,False,ActiveAero,11,17.7,False,-0.46,6,5.793,0.45,Q1,monza,Mercedes
+BOT,Cadillac,85.334,2026,34.1,35.3,994.8,False,53.8,0.0,0.0,19.92,19.92,False,ActiveAero,11,19.7,False,0.0,12,5.793,0.5,Q1,monza,Ferrari
+BOT,Cadillac,84.457,2026,34.0,34.7,994.7,False,54.2,0.0,0.0,19.92,19.92,False,ActiveAero,11,20.2,False,0.0,12,5.793,0.5,Q1,monza,Ferrari
+BOT,Cadillac,84.364,2026,34.1,34.7,994.7,False,55.3,0.0,0.0,19.92,19.92,False,ActiveAero,11,21.2,False,0.0,12,5.793,0.5,Q1,monza,Ferrari
+PER,Cadillac,85.649,2026,34.2,33.6,994.7,False,55.5,0.0,0.0,19.92,19.92,False,ActiveAero,11,21.3,False,0.0,13,5.793,0.5,Q1,monza,Ferrari
+PER,Cadillac,85.502,2026,33.9,34.1,994.7,False,54.7,0.0,0.0,19.92,19.92,False,ActiveAero,11,20.8,False,0.0,13,5.793,0.5,Q1,monza,Ferrari
+PER,Cadillac,84.595,2026,33.9,34.6,994.8,False,54.5,0.0,0.0,19.92,19.92,False,ActiveAero,11,20.6,False,0.0,13,5.793,0.5,Q1,monza,Ferrari
+ALO,Aston Martin,85.27,2026,34.0,34.8,994.5,False,55.1,3.0,3.0,19.5,20.13,False,ActiveAero,11,21.1,False,0.63,22,5.793,1.0,Q1,monza,Honda
+ALO,Aston Martin,85.15,2026,34.2,33.3,994.7,False,54.9,3.0,3.0,19.5,20.13,False,ActiveAero,11,20.7,False,0.63,22,5.793,1.0,Q1,monza,Honda
+STR,Aston Martin,86.947,2026,33.9,34.9,994.6,False,53.3,0.0,3.0,20.82,20.13,False,ActiveAero,11,19.4,False,-0.69,9,5.793,0.0,Q1,monza,Honda
+STR,Aston Martin,85.407,2026,33.9,34.7,994.6,False,52.4,0.0,3.0,20.82,20.13,False,ActiveAero,11,18.5,False,-0.69,9,5.793,0.0,Q1,monza,Honda
+STR,Aston Martin,85.222,2026,34.0,34.1,994.5,False,52.7,0.0,3.0,20.82,20.13,False,ActiveAero,11,18.7,False,-0.69,9,5.793,0.0,Q1,monza,Honda
+GAS,Alpine,82.126,2026,33.9,35.3,994.5,False,52.3,35.0,54.0,11.0,12.29,False,ActiveAero,11,18.4,False,1.29,9,5.793,0.65,Q2,monza,Mercedes
+GAS,Alpine,82.077,2026,33.9,35.4,994.4,False,52.4,35.0,54.0,11.0,12.29,False,ActiveAero,11,18.5,False,1.29,9,5.793,0.65,Q2,monza,Mercedes
+RUS,Mercedes,82.161,2026,34.1,34.0,994.6,False,52.1,183.0,425.0,3.0,2.5,False,ActiveAero,11,18.0,False,-0.5,7,5.793,0.43,Q2,monza,Mercedes
+RUS,Mercedes,82.855,2026,33.8,35.2,994.5,False,53.3,183.0,425.0,3.0,2.5,False,ActiveAero,11,19.5,False,-0.5,7,5.793,0.43,Q2,monza,Mercedes
+PIA,McLaren,82.017,2026,33.8,35.2,994.5,False,52.4,106.0,265.0,5.75,5.08,False,ActiveAero,11,18.6,False,-0.67,3,5.793,0.4,Q2,monza,Mercedes
+PIA,McLaren,82.257,2026,33.9,34.4,994.5,False,51.4,106.0,265.0,5.75,5.08,False,ActiveAero,11,17.5,False,-0.67,3,5.793,0.4,Q2,monza,Mercedes
+LEC,Ferrari,82.509,2026,34.0,34.6,994.6,False,51.9,155.0,338.0,4.58,4.42,False,ActiveAero,11,17.9,False,-0.16,8,5.793,0.46,Q2,monza,Ferrari
+LEC,Ferrari,82.927,2026,34.2,34.8,994.8,False,54.5,155.0,338.0,4.58,4.42,False,ActiveAero,11,20.3,False,-0.16,8,5.793,0.46,Q2,monza,Ferrari
+HAM,Ferrari,82.624,2026,34.0,34.7,994.7,False,54.2,183.0,338.0,4.25,4.42,False,ActiveAero,11,20.2,False,0.17,19,5.793,0.54,Q2,monza,Ferrari
+HAM,Ferrari,82.516,2026,34.0,35.3,994.8,False,55.3,183.0,338.0,4.25,4.42,False,ActiveAero,11,21.3,False,0.17,19,5.793,0.54,Q2,monza,Ferrari
+VER,Red Bull Racing,82.573,2026,34.1,34.0,994.7,False,53.8,112.0,189.0,5.55,6.96,False,ActiveAero,11,19.7,False,1.41,11,5.793,0.59,Q2,monza,Ford RBPT
+VER,Red Bull Racing,82.188,2026,34.1,34.1,994.8,False,54.5,112.0,189.0,5.55,6.96,False,ActiveAero,11,20.4,False,1.41,11,5.793,0.59,Q2,monza,Ford RBPT
+ANT,Mercedes,82.334,2026,34.2,34.5,994.8,False,55.4,242.0,425.0,2.0,2.5,False,ActiveAero,11,21.2,False,0.5,1,5.793,0.57,Q2,monza,Mercedes
+ANT,Mercedes,81.882,2026,34.1,33.9,994.7,False,55.5,242.0,425.0,2.0,2.5,False,ActiveAero,11,21.4,False,0.5,1,5.793,0.57,Q2,monza,Mercedes
+COL,Alpine,82.403,2026,33.9,34.9,994.6,False,53.3,19.0,54.0,13.58,12.29,False,ActiveAero,11,19.4,False,-1.29,2,5.793,0.35,Q2,monza,Mercedes
+COL,Alpine,82.4,2026,33.9,34.7,994.6,False,52.4,19.0,54.0,13.58,12.29,False,ActiveAero,11,18.5,False,-1.29,2,5.793,0.35,Q2,monza,Mercedes
+NOR,McLaren,82.067,2026,33.9,34.8,994.7,False,52.8,159.0,265.0,4.42,5.08,False,ActiveAero,11,18.9,False,0.66,8,5.793,0.6,Q2,monza,Mercedes
+NOR,McLaren,82.255,2026,33.9,35.3,994.5,False,52.3,159.0,265.0,4.42,5.08,False,ActiveAero,11,18.4,False,0.66,8,5.793,0.6,Q2,monza,Mercedes
+LIN,Racing Bulls,82.345,2026,33.9,35.4,994.4,False,52.4,25.0,70.0,10.92,10.88,False,ActiveAero,11,18.5,False,-0.04,0,5.793,0.36,Q2,monza,Ford RBPT
+LIN,Racing Bulls,82.39,2026,34.1,34.0,994.6,False,52.1,25.0,70.0,10.92,10.88,False,ActiveAero,11,18.0,False,-0.04,0,5.793,0.36,Q2,monza,Ford RBPT
+BOR,Audi,82.566,2026,33.8,35.2,994.5,False,53.3,10.0,16.0,12.67,12.25,False,ActiveAero,11,19.5,False,-0.42,1,5.793,0.62,Q2,monza,Audi
+BOR,Audi,82.517,2026,33.8,35.2,994.5,False,52.4,10.0,16.0,12.67,12.25,False,ActiveAero,11,18.6,False,-0.42,1,5.793,0.62,Q2,monza,Audi
+BEA,Haas F1 Team,82.756,2026,33.9,34.4,994.5,False,51.4,18.0,21.0,15.17,15.21,False,ActiveAero,11,17.5,False,0.04,1,5.793,0.86,Q2,monza,Ferrari
+BEA,Haas F1 Team,82.94,2026,34.0,34.6,994.6,False,51.9,18.0,21.0,15.17,15.21,False,ActiveAero,11,17.9,False,0.04,1,5.793,0.86,Q2,monza,Ferrari
+HUL,Audi,83.175,2026,34.0,33.8,994.6,False,51.7,6.0,16.0,11.83,12.25,False,ActiveAero,11,17.7,False,0.42,15,5.793,0.38,Q2,monza,Audi
+HUL,Audi,82.779,2026,34.2,34.8,994.8,False,54.5,6.0,16.0,11.83,12.25,False,ActiveAero,11,20.3,False,0.42,15,5.793,0.38,Q2,monza,Audi
+LAW,Red Bull Racing,82.828,2026,34.0,34.7,994.7,False,54.2,51.0,189.0,10.5,6.96,False,ActiveAero,11,20.2,False,-3.54,2,5.793,0.27,Q2,monza,Ford RBPT
+LAW,Red Bull Racing,83.062,2026,34.0,35.3,994.8,False,55.3,51.0,189.0,10.5,6.96,False,ActiveAero,11,21.3,False,-3.54,2,5.793,0.27,Q2,monza,Ford RBPT
+LAW,Red Bull Racing,82.821,2026,34.1,34.0,994.7,False,53.8,51.0,189.0,10.5,6.96,False,ActiveAero,11,19.7,False,-3.54,2,5.793,0.27,Q2,monza,Ford RBPT
+SAI,Williams,83.87,2026,33.9,34.9,994.6,False,53.3,6.0,11.0,15.55,16.04,False,ActiveAero,11,19.4,False,0.49,11,5.793,0.55,Q2,monza,Mercedes
+SAI,Williams,83.453,2026,33.9,34.7,994.6,False,52.4,6.0,11.0,15.55,16.04,False,ActiveAero,11,18.5,False,0.49,11,5.793,0.55,Q2,monza,Mercedes
+OCO,Haas F1 Team,84.109,2026,33.9,34.8,994.7,False,52.8,3.0,21.0,15.25,15.21,False,ActiveAero,11,18.9,False,-0.04,10,5.793,0.14,Q2,monza,Ferrari
+OCO,Haas F1 Team,83.454,2026,33.9,35.3,994.5,False,52.3,3.0,21.0,15.25,15.21,False,ActiveAero,11,18.4,False,-0.04,10,5.793,0.14,Q2,monza,Ferrari
+GAS,Alpine,82.001,2026,33.9,35.4,994.4,False,52.4,35.0,54.0,11.0,12.29,False,ActiveAero,11,18.5,False,1.29,9,5.793,0.65,Q3,monza,Mercedes
+GAS,Alpine,81.786,2026,34.1,34.0,994.6,False,52.1,35.0,54.0,11.0,12.29,False,ActiveAero,11,18.0,False,1.29,9,5.793,0.65,Q3,monza,Mercedes
+RUS,Mercedes,81.929,2026,33.8,35.2,994.5,False,53.3,183.0,425.0,3.0,2.5,False,ActiveAero,11,19.5,False,-0.5,7,5.793,0.43,Q3,monza,Mercedes
+RUS,Mercedes,81.846,2026,33.9,34.0,994.5,False,53.0,183.0,425.0,3.0,2.5,False,ActiveAero,11,19.1,False,-0.5,7,5.793,0.43,Q3,monza,Mercedes
+PIA,McLaren,81.966,2026,33.9,34.4,994.5,False,51.4,106.0,265.0,5.75,5.08,False,ActiveAero,11,17.5,False,-0.67,3,5.793,0.4,Q3,monza,Mercedes
+LEC,Ferrari,82.004,2026,34.0,34.6,994.6,False,51.9,155.0,338.0,4.58,4.42,False,ActiveAero,11,17.9,False,-0.16,8,5.793,0.46,Q3,monza,Ferrari
+LEC,Ferrari,82.146,2026,34.0,33.8,994.6,False,51.7,155.0,338.0,4.58,4.42,False,ActiveAero,11,17.7,False,-0.16,8,5.793,0.46,Q3,monza,Ferrari
+HAM,Ferrari,82.724,2026,34.2,34.8,994.8,False,54.5,183.0,338.0,4.25,4.42,False,ActiveAero,11,20.3,False,0.17,19,5.793,0.54,Q3,monza,Ferrari
+HAM,Ferrari,82.011,2026,34.0,34.7,994.7,False,54.2,183.0,338.0,4.25,4.42,False,ActiveAero,11,20.2,False,0.17,19,5.793,0.54,Q3,monza,Ferrari
+VER,Red Bull Racing,82.07,2026,34.0,35.3,994.8,False,55.3,112.0,189.0,5.55,6.96,False,ActiveAero,11,21.3,False,1.41,11,5.793,0.59,Q3,monza,Ford RBPT
+VER,Red Bull Racing,82.381,2026,34.1,34.0,994.7,False,53.8,112.0,189.0,5.55,6.96,False,ActiveAero,11,19.7,False,1.41,11,5.793,0.59,Q3,monza,Ford RBPT
+ANT,Mercedes,82.093,2026,34.1,34.7,994.6,False,53.4,242.0,425.0,2.0,2.5,False,ActiveAero,11,19.3,False,0.5,1,5.793,0.57,Q3,monza,Mercedes
+COL,Alpine,82.735,2026,34.0,34.6,994.6,False,53.5,19.0,54.0,13.58,12.29,False,ActiveAero,11,19.5,False,-1.29,2,5.793,0.35,Q3,monza,Mercedes
+COL,Alpine,82.22,2026,33.9,35.5,994.6,False,53.2,19.0,54.0,13.58,12.29,False,ActiveAero,11,19.3,False,-1.29,2,5.793,0.35,Q3,monza,Mercedes
+NOR,McLaren,82.256,2026,33.9,34.8,994.7,False,52.8,159.0,265.0,4.42,5.08,False,ActiveAero,11,18.9,False,0.66,8,5.793,0.6,Q3,monza,Mercedes
+NOR,McLaren,82.573,2026,34.0,34.4,994.6,False,51.5,159.0,265.0,4.42,5.08,False,ActiveAero,11,17.5,False,0.66,8,5.793,0.6,Q3,monza,Mercedes
+LIN,Racing Bulls,82.413,2026,34.0,34.5,994.6,False,52.1,25.0,70.0,10.92,10.88,False,ActiveAero,11,18.1,False,-0.04,0,5.793,0.36,Q3,monza,Ford RBPT
+LIN,Racing Bulls,82.286,2026,33.9,35.3,994.5,False,52.3,25.0,70.0,10.92,10.88,False,ActiveAero,11,18.4,False,-0.04,0,5.793,0.36,Q3,monza,Ford RBPT

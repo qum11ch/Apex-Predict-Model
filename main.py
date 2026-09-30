@@ -461,7 +461,7 @@ def train_laptime_model(df: pd.DataFrame) -> None:
     tuner = kt.BayesianOptimization(
         new_model_builder,
         objective=kt.Objective("val_mae", direction="min"),
-        max_trials=300,
+        max_trials=500,
         executions_per_trial=1,
         directory=TUNER_DIR,
         project_name="f1_laptime",
@@ -544,6 +544,7 @@ def train_laptime_model(df: pd.DataFrame) -> None:
     plot_predictions_comparison(y_test_inversed, y_pred_inversed, y_pred_cat_inversed)
     plot_model_architecture(best_model, MODEL_DIR / "model_architecture.png")
 
+
 def plot_predictions_comparison(
         y_true: np.ndarray,
         y_pred_neuro: np.ndarray,
@@ -562,7 +563,7 @@ def plot_predictions_comparison(
     )
     plt.xlabel("Реальное время круга (сек)")
     plt.ylabel("Спрогнозированное время круга (сек)")
-    plt.title("Нейросеть: Предсказания vs Реальные значения")
+    plt.title("Нейросеть: Прогнозы vs Реальные значения")
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
@@ -580,7 +581,7 @@ def plot_predictions_comparison(
         lw=2,
     )
     axes[0].set_xlabel("Реальное время круга (сек)")
-    axes[0].set_ylabel("Предсказанное время круга (сек)")
+    axes[0].set_ylabel("Спрогнозированное время круга (сек)")
     axes[0].set_title("Нейросеть")
     axes[0].grid(True, alpha=0.3)
     axes[0].legend()
@@ -615,6 +616,7 @@ def plot_model_architecture(model: tf.keras.Model, save_path: Path) -> None:
         show_layer_names=True,
     )
     print(f"Архитектура модели сохранена: {save_path}")
+
 
 def load_single_file(file_path: str) -> pd.DataFrame:
     file_path = Path(file_path)

@@ -6,6 +6,9 @@ import fastf1
 from fastf1.ergast import Ergast
 import pandas as pd
 import os
+import random
+import time
+from requests.exceptions import RequestException
 from pathlib import Path
 
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
@@ -17,6 +20,27 @@ pd.set_option('display.width', 1000)
 ROOT = Path(__file__).resolve().parent
 DATASET_DIR = ROOT / "dataset"
 ERGAST_DIR = ROOT / "ergast"
+CACHE_DIR = ROOT / ".fastf1_cache"
+CACHE_DIR.mkdir(exist_ok=True)
+
+fastf1.Cache.enable_cache(CACHE_DIR)
+
+
+def request_with_backoff(request_func, *args, max_retries=5, **kwargs):
+    for attempt in range(max_retries):
+        try:
+            return request_func(*args, **kwargs)
+
+        except RequestException as error:
+            if attempt == max_retries - 1:
+                raise
+
+            delay = min(60, 2 ** attempt + random.uniform(0.5, 1.5))
+            print(
+                f"Ошибка API: {error}. "
+                f"Повтор через {delay:.1f} секунд..."
+            )
+            time.sleep(delay)
 
 
 def add_quali_data():
@@ -399,25 +423,31 @@ def add_quali_data():
     df.to_csv(new_dataset_path, index=False)
 
 
-def get_current_season_quali(ergast: Ergast, year: int, race_round: int) -> pd.DataFrame:
-    new_round = race_round - 1
-    quali_df = pd.DataFrame(columns=["driverCode", "constructorId", "position"])
+def get_current_season_quali(ergast, year: int, race_round: int):
+    quali_frames = []
 
-    while new_round > 0:
-        quali_res = ergast.get_qualifying_results(
-            season=year, round=new_round, result_type="pandas"
+    for round_number in range(1, race_round):
+        quali_res = request_with_backoff(
+            ergast.get_qualifying_results,
+            season=year,
+            round=round_number,
+            result_type="pandas",
         ).content[0]
 
-        results = pd.DataFrame(columns=["driverCode", "constructorId", "position"])
-        results["driverCode"] = quali_res["driverCode"]
-        results["constructorId"] = quali_res["constructorId"]
-        results["position"] = quali_res["position"]
+        quali_frames.append(
+            quali_res[
+                ["driverCode", "constructorId", "position"]
+            ]
+        )
 
-        quali_df = pd.concat([quali_df, results])
-        new_round -= 1
+        time.sleep(0.5)
 
-    quali_df = quali_df.reset_index(drop=True)
-    return quali_df
+    if not quali_frames:
+        return pd.DataFrame(
+            columns=["driverCode", "constructorId", "position"]
+        )
+
+    return pd.concat(quali_frames, ignore_index=True)
 
 
 def add_season_stats(df: pd.DataFrame,
@@ -428,6 +458,7 @@ def add_season_stats(df: pd.DataFrame,
                      current_season_qualis: Optional[pd.DataFrame],
                      event,
                      ergast: Ergast,
+                     prev_constructor_standings: pd.DataFrame,
                      ) -> pd.DataFrame:
 
     drivers_df = load_single_file(ERGAST_DIR / "drivers.csv")
@@ -479,7 +510,7 @@ def add_season_stats(df: pd.DataFrame,
                 team_id = np.array(["red_bull"])
 
         team_df = constructor[constructor["Constructor"].isin(team_id)]
-        prev_constructor_standings = get_constructor_standings(ergast, year, 1)
+
         prev_team_df = prev_constructor_standings[
             prev_constructor_standings["Constructor"].isin(team_id)
         ]

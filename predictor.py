@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 from joblib import load
 import tensorflow as tf
+import fastf1
 from fastf1.ergast import Ergast
 
 from catboost import CatBoostRegressor
@@ -18,12 +19,16 @@ from dataset import (
     get_circuits_len,
     add_season_stats
 )
-from main import R2Score, r2score, huber_loss
+from main import R2Score, huber_loss
 
 ROOT = Path(__file__).resolve().parent
 DATASET_DIR = ROOT / "dataset"
 PREPROC_DIR = ROOT / "preprocessors"
 MODEL_DIR = ROOT / "models"
+CACHE_DIR = ROOT / ".fastf1_cache"
+CACHE_DIR.mkdir(exist_ok=True)
+
+fastf1.Cache.enable_cache(CACHE_DIR)
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
@@ -112,8 +117,21 @@ def get_prediction(
     driver = get_driver_standings(ergast, year, gp_round)
     constructor = get_constructor_standings(ergast, year, gp_round)
 
+    prev_constructor_standings = get_constructor_standings(
+        ergast,
+        year,
+        1,
+    )
+
     df = add_season_stats(
-        df, driver, constructor, gp_round, year, current_season_quali, event, ergast
+        df,
+        driver,
+        constructor,
+        gp_round,
+        year,
+        current_season_quali,
+        ergast,
+        prev_constructor_standings,
     )
 
     first_event_name = event + "1"
@@ -479,16 +497,16 @@ def get_prediction(
 
 if __name__ == "__main__":
     year = 2026
-    air_temp = 28.5
-    pressure = 1013.6
-    humidity = 60.0
+    air_temp = 27.0
+    pressure = 1018
+    humidity = 35.0
     rainfall = 0
-    circuit_id = "miami"
+    circuit_id = "madring"
 
     drivers_data = {
         "Driver": [
             "PIA", "NOR", "VER", "RUS", "LEC", "ANT", "HAM", "ALB", "OCO", "STR",
-            "HUL", "GAS", "BEA", "HAD", "SAI", "ALO", "LAW", "BOR", "LIN", "BOT",
+            "HUL", "GAS", "BEA", "LAW", "SAI", "ALO", "TSU", "BOR", "LIN", "BOT",
             "PER", "COL",
         ]
     }
@@ -515,10 +533,10 @@ if __name__ == "__main__":
             humidity,
             rainfall,
             "Q",
-            4,
+            14,
             df,
-            19,
-            5.412,
+            22,
+            5.416,
             True,
             circuit_id,
         )
